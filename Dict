@@ -898,3 +898,25 @@
 (?i)(Ph\.?D\.? (in )?PHARMACY)(?-i)	PF_Pharmacy
 (?i)(Ph\.?D\.? (in )?Pharmacology)(?-i)	PF_OtherMedicalScience
 (?i)(Ph\.?D\.? (in )?Pharmacy)(?-i)	PF_IndianMedicine
+(?i)(Ph\.?D\.? (in )?Physics)(?-i)	PF_Physics
+(?i)(Ph\.?D\.? (in )?Physiology)(?-i)	PF_Physiology
+(?i)(Ph\.?D\.? (in )?Physiotherapy)(?-i)	PF_Physiotherapy
+(?i)(Ph\.?D\.? (in )?Research)(?-i)	PF_Criminology&ForensicScience
+(?i)(Ph\.?D\.? (in )?Russian Language)(?-i)	PF_OtherForeignLanguages
+(?i)(Ph\.?D\.? (in )?Russian Literature)(?-i)	PF_French
+(?i)(Ph\.?D\.? (in )?SANSKRIT)(?-i)	PF_OrientalLearning
+(?i)(Ph\.?D\.? (in )?Science)(?-i)	PF_OtherScience
+(?i)(Ph\.?D\.? (in )?Social Sceinces)(?-i)	PF_OtherSocialScience
+(?i)(Ph\.?D\.? (in )?Spatial Informatics)(?-i)	PF_ComputerEngineering
+(?i)(Ph\.?D\.? (in )?Swarvadya-Ph\.?D\.?)(?-i)	PF_PerformingArts
+(?i)(Ph\.?D\.? (in )?Taalvadya-Ph\.?D\.?)(?-i)	PF_PerformingArts
+(?i)(Ph\.?D\.? (in )?Transdisciplinary)(?-i)	PF_OtherScience
+(?i)(Ph\.?D\.? (in )?Translation Studies)(?-i)	PF_Linguistics
+(?i)(Ph\.?D\.? (in )?Veterinary)(?-i)	PF_Veterinary&AnimalSciences
+(?i)(Ph\.?D\.? (in )?Vocal Music-Ph\.?D\.?)(?-i)	PF_PerformingArts
+(?i)(Ph\.?D\.? (in )?Youth Empowerment)(?-i)	PF_OtherSocialScience
+(?i)(Ph\.?D\.? (in )?science)(?-i)	PF_Physics
+(?i)(Ph\.?D\.?)(?-i)	PF_OtherEngineering&Technology
+(?i)(Post Graduate Diploma)(?-i)	PF_OtherManagement
+(?i)(Shastri)(?-i)	G_OrientalLearning
+(?i)(Vidya Varidhi)(?-i)	PF_OrientalLearning
