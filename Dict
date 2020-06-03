@@ -798,3 +798,103 @@
 (?i)(PG Diploma (in )?Yoga & Natural Pathy)(?-i)	PF_Yoga
 (?i)(PG Diploma (in )?Yoga & Psychotherapy)(?-i)	PF_Yoga
 (?i)(PG Diploma (in )?Yoga Education)(?-i)	PF_Yoga
+(?i)(PG Diploma (in )?Yoga practices)(?-i)	PF_OtherMedicalScience
+(?i)(PG Diploma (in )?art)(?-i)	PF_OtherSocialScience
+(?i)(PG Diploma (in )?other)(?-i)	PF_Education
+(?i)(PG Diploma (in )?science)(?-i)	PF_OtherScience
+(?i)(PG Diploma)(?-i)	PF_OtherManagement
+(?i)(P\.?G\.?P\.? (in )?General Management)(?-i)	P_BusinessManagement
+(?i)(P\.?G\.?P\.? (in )?PGDM -Business Entrepreneurship)(?-i)	PF_BusinessManagement
+(?i)(P\.?G\.?P\.?)(?-i)	P_BusinessManagement
+(?i)(Ph\.?D in Ayurveda)(?-i)	PF_Ayurveda
+(?i)(Ph\.?D\.? (in )?Agriculture)(?-i)	PF_Agriculture
+(?i)(Ph\.?D\.? (in )?Agril\.? Engg)(?-i)	PF_AgricultureEngineering
+(?i)(Ph\.?D\.? (in )?All Subject)(?-i)	PF_OtherEngineering&Technology
+(?i)(Ph\.?D\.? (in )?Anasthesiology)(?-i)	PF_Anesthesiology
+(?i)(Ph\.?D\.? (in )?Anatomy)(?-i)	PF_OtherMedicalScience
+(?i)(Ph\.?D\.? (in )?Arabic L&L)(?-i)	PF_OtherForeignLanguages
+(?i)(Ph\.?D\.? (in )?Arabic Lit)(?-i)	PF_OtherForeignLanguages
+(?i)(Ph\.?D\.? (in )?Architecture)(?-i)	PF_Architecture
+(?i)(Ph\.?D\.? (in )?Arts and Education)(?-i)	PF_AreaStudies
+(?i)(Ph\.?D\.? (in )?Ayurveda)(?-i)	PF_Ayurveda
+(?i)(Ph\.?D\.? (in )?Bio Engineering Interdisciplinary)(?-i)	PF_Bio-technology
+(?i)(Ph\.?D\.? (in )?Bio Technology)(?-i)	PF_ChemicalEngineering
+(?i)(Ph\.?D\.? (in )?BioChemistry)(?-i)	PF_Bio-chemistry
+(?i)(Ph\.?D\.? (in )?Bioinformatics)(?-i)	PF_OtherEngineering&Technology
+(?i)(Ph\.?D\.? (in )?CHEMISTRY)(?-i)	PF_OtherEngineering&Technology
+(?i)(Ph\.?D\.? (in )?CIVIL)(?-i)	PF_CivilEngineering
+(?i)(Ph\.?D\.? (in )?COMPUTER SCIENCE)(?-i)	PF_ComputerEngineering
+(?i)(Ph\.?D\.? (in )?CSE)(?-i)	PF_ComputerEngineering
+(?i)(Ph\.?D\.? (in )?CWL)(?-i)	PF_Linguistics
+(?i)(Ph\.?D\.? (in )?Career Counselling)(?-i)	PF_Philosophy
+(?i)(Ph\.?D\.? (in )?Chemical Biology)(?-i)	PF_OtherScience
+(?i)(Ph\.?D\.? (in )?Chemical Engineering)(?-i)	PF_ChemicalEngineering
+(?i)(Ph\.?D\.? (in )?Chemistry)(?-i)	PF_Chemistry
+(?i)(Ph\.?D\.? (in )?Civil Engineering)(?-i)	PF_CivilEngineering
+(?i)(Ph\.?D\.? (in )?Cognitive Science)(?-i)	PF_OtherEngineering&Technology
+(?i)(Ph\.?D\.? (in )?Computational Linguistics)(?-i)	PF_OtherEngineering&Technology
+(?i)(Ph\.?D\.? (in )?Computational Natural Sciences)(?-i)	PF_OtherEngineering&Technology
+(?i)(Ph\.?D\.? (in )?Computer Science and)(?-i)	PF_ComputerEngineering
+(?i)(Ph\.?D\.? (in )?Computer Studies)(?-i)	PF_InformationTechnology
+(?i)(Ph\.?D\.? (in )?Cultural Studies)(?-i)	PF_AreaStudies
+(?i)(Ph\.?D\.? (in )?Dance-Ph\.?D\.?)(?-i)	PF_PerformingArts
+(?i)(Ph\.?D\.? (in )?Dentistry)(?-i)	PF_Dentistry
+(?i)(Ph\.?D\.? (in )?ECE)(?-i)	PF_ElectronicsEngineering
+(?i)(Ph\.?D\.? (in )?EEE)(?-i)	PF_ElectricalEngineering
+(?i)(Ph\.?D\.? (in )?ELECTRICAL)(?-i)	PF_ElectricalEngineering
+(?i)(Ph\.?D\.? (in )?ELECTRONIC)(?-i)	PF_ElectronicsEngineering
+(?i)(Ph\.?D\.? (in )?ENGLISH)(?-i)	PF_Education
+(?i)(Ph\.?D\.? (in )?ENVIROMENT SCIENCE)(?-i)	PF_EnvironmentalScience
+(?i)(Ph\.?D\.? (in )?Economics)(?-i)	PF_Economics
+(?i)(Ph\.?D\.? (in )?Electrical & Electronics Engineering)(?-i)	PF_ElectricalEngineering
+(?i)(Ph\.?D\.? (in )?Electronics and communication Engineering)(?-i)	PF_ElectronicsEngineering
+(?i)(Ph\.?D\.? (in )?Energy)(?-i)	PF_OtherEngineering&Technology
+(?i)(Ph\.?D\.? (in )?Engineering & Technology)(?-i)	PF_OtherEngineering&Technology
+(?i)(Ph\.?D\.? (in )?Engineering)(?-i)	PF_ChemicalEngineering
+(?i)(Ph\.?D\.? (in )?English Language Education)(?-i)	PF_English
+(?i)(Ph\.?D\.? (in )?English)(?-i)	PF_Linguistics
+(?i)(Ph\.?D\.? (in )?Enineering)(?-i)	PF_ComputerEngineering
+(?i)(Ph\.?D\.? (in )?Exact Humanities)(?-i)	PF_OtherEngineering&Technology
+(?i)(Ph\.?D\.? (in )?Film Studies & Visual Medias)(?-i)	PF_Journalism&MassCommunication
+(?i)(Ph\.?D\.? (in )?Fisheries)(?-i)	PF_FisheriesScience
+(?i)(Ph\.?D\.? (in )?Food Technology)(?-i)	PF_ChemicalEngineering
+(?i)(Ph\.?D\.? (in )?Francophone Studies)(?-i)	PF_French
+(?i)(Ph\.?D\.? (in )?French Studies)(?-i)	PF_French
+(?i)(Ph\.?D\.? (in )?Gender Studies)(?-i)	PF_WomenStudies
+(?i)(Ph\.?D\.? (in )?General)(?-i)	PF_Education
+(?i)(Ph\.?D\.? (in )?HS)(?-i)	PF_OtherEngineering&Technology
+(?i)(Ph\.?D\.? (in )?Health & Biomedical Sciences)(?-i)	PF_OtherScience
+(?i)(Ph\.?D\.? (in )?Health promotion education)(?-i)	PF_Education
+(?i)(Ph\.?D\.? (in )?Hindi)(?-i)	PF_Hindi
+(?i)(Ph\.?D\.? (in )?History)(?-i)	PF_OtherSocialScience
+(?i)(Ph\.?D\.? (in )?Humanities & Social Sciences)(?-i)	PF_OtherSocialScience
+(?i)(Ph\.?D\.? (in )?IT in Building Science)(?-i)	PF_CivilEngineering
+(?i)(Ph\.?D\.? (in )?IT in Power Systems)(?-i)	PF_OtherEngineering&Technology
+(?i)(Ph\.?D\.? (in )?Inter Disciplinary Research)(?-i)	PF_OtherMedicalScience
+(?i)(Ph\.?D\.? (in )?Inter Disciplinary)(?-i)	PF_OtherMedicalScience
+(?i)(Ph\.?D\.? (in )?LAW)(?-i)	PF_Law
+(?i)(Ph\.?D\.? (in )?LIFE SCIENCE)(?-i)	PF_OtherEngineering&Technology
+(?i)(Ph\.?D\.? (in )?Law)(?-i)	PF_Law
+(?i)(Ph\.?D\.? (in )?Life Skills Education and Social Harmony)(?-i)	PF_Sociology
+(?i)(Ph\.?D\.? (in )?Linguistics & Phonetics)(?-i)	PF_Linguistics
+(?i)(Ph\.?D\.? (in )?Literature)(?-i)	PF_Linguistics
+(?i)(Ph\.?D\.? (in )?Local Governance)(?-i)	PF_PublicAdministration
+(?i)(Ph\.?D\.? (in )?MANAGEMENT)(?-i)	PF_OtherManagement
+(?i)(Ph\.?D\.? (in )?MATHS)(?-i)	PF_AreaStudies
+(?i)(Ph\.?D\.? (in )?MECHNICAL)(?-i)	PF_MechanicalEngineering
+(?i)(Ph\.?D\.? (in )?MISC\.?)(?-i)	PF_OtherMedicalScience
+(?i)(Ph\.?D\.? (in )?Management)(?-i)	PF_OtherManagement
+(?i)(Ph\.?D\.? (in )?Mass Communication)(?-i)	PF_Education
+(?i)(Ph\.?D\.? (in )?Mathematics Interdisciplinary)(?-i)	PF_Mathematics
+(?i)(Ph\.?D\.? (in )?Mathematics)(?-i)	PF_Mathematics
+(?i)(Ph\.?D\.? (in )?Mechanical and Engineering)(?-i)	PF_MechanicalEngineering
+(?i)(Ph\.?D\.? (in )?Media Communication & Design)(?-i)	PF_Journalism&MassCommunication
+(?i)(Ph\.?D\.? (in )?Medical Informatics)(?-i)	PF_GeneralMedicine
+(?i)(Ph\.?D\.? (in )?Medicine)(?-i)	PF_OtherMedicalScience
+(?i)(Ph\.?D\.? (in )?Microbiology)(?-i)	PF_Microbiology
+(?i)(Ph\.?D\.? (in )?Musicology)(?-i)	PF_PerformingArts
+(?i)(Ph\.?D\.? (in )?Nanoscience and Engineering)(?-i)	PF_OtherEngineering&Technology
+(?i)(Ph\.?D\.? (in )?Neuroscience)(?-i)	PF_OtherScience
+(?i)(Ph\.?D\.? (in )?PHARMACY)(?-i)	PF_Pharmacy
+(?i)(Ph\.?D\.? (in )?Pharmacology)(?-i)	PF_OtherMedicalScience
+(?i)(Ph\.?D\.? (in )?Pharmacy)(?-i)	PF_IndianMedicine
