@@ -920,3 +920,6 @@
 (?i)(Post Graduate Diploma)(?-i)	PF_OtherManagement
 (?i)(Shastri)(?-i)	G_OrientalLearning
 (?i)(Vidya Varidhi)(?-i)	PF_OrientalLearning
+Certificate	C_Education
+Diploma	PF_CivilEngineering
+Post	P_BusinessManagement
