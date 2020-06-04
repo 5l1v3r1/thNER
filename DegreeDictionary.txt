@@ -1,4 +1,4 @@
-(?i)(Acharya)(?-i)	P_OrientalLearning
+﻿(?i)(Acharya)(?-i)	P_OrientalLearning
 (?i)(Ayurveda Vachaspati)(?-i)	PF_Ayurveda
 (?i)(B\.?A\.? (in )?AIH)(?-i)	G_Arts
 (?i)(B\.?A\.? (in )?Anthropology)(?-i)	G_Arts
@@ -3675,8 +3675,8 @@ c\.S	PF_NONENGG
 C s	PF_NONENGG
 Bachelors degree	G_B_UNCLASSIFIED
 BACHELOR 'S	G_B_UNCLASSIFIED
-Bachelor’s Degree	G_B_UNCLASSIFIED
-Bachelor ’s Degree	G_B_UNCLASSIFIED
+Bachelorâs Degree	G_B_UNCLASSIFIED
+Bachelor âs Degree	G_B_UNCLASSIFIED
 Bachelor	G_B_UNCLASSIFIED
 bachelor 's Degree	G_B_UNCLASSIFIED
 Bachelor 's degree	G_B_UNCLASSIFIED
@@ -8290,7 +8290,7 @@ Textiles and Clothing	SPL_NONENGG
 Master of Arts in Gandhian Philosophy	P_M_NONENGG
 Chemical Technology	SPL_ENGG
 Ph\.D\. \(English Literature\)	PF_NONENGG
-Bachelor of Fine Arts – BFA in Animation \+ VFX	G_B_NONENGG
+Bachelor of Fine Arts â BFA in Animation \+ VFX	G_B_NONENGG
 MTech Mainframe Technology	P_M_ENGG
 L\.L\.M\. in IPR and Technology Law	P_M_NONENGG
 M\.B\.A\. Agri - Business Technology Management	P_MBA_NONENGG
@@ -10988,7 +10988,7 @@ Master of Technology in Chemical Synthesis and Process Technologies	P_M_ENGG
 MSc in Industrial Microbiology	P_M_NONENGG
 MBA in Banking and Insurance	P_MBA_NONENGG
 B\.A\. Hons\. Statistics	G_B_NONENGG
-Bachelor of Fine Arts – BFA Animation \+ VFX	G_B_NONENGG
+Bachelor of Fine Arts â BFA Animation \+ VFX	G_B_NONENGG
 Master of Arts in Political Science and Public Administration	P_M_NONENGG
 B\.Tech Photonic Engineering	G_B_ENGG
 B\.B\.A\. \(Hons\.\) \(Hospitality Management\)	G_B_NONENGG
@@ -11710,7 +11710,7 @@ Ph\.D\. \(Women's Studies\)	PF_NONENGG
 M\.A\. in Human Development	P_M_NONENGG
 "M\.A\. in Diplomacy, Law and Business"	P_M_NONENGG
 Bachelor of Science in Hotel Management and Catering Travel Operations	G_B_NONENGG
-Bachelor of Fine Arts – BFA \(Animation \+ VFX\)	G_B_NONENGG
+Bachelor of Fine Arts â BFA \(Animation \+ VFX\)	G_B_NONENGG
 Bachelor of Technology in Information Science and Engineering	G_B_ENGG
 M\.Sc\. \(Resource Management\)	P_M_NONENGG
 M\.Phil\. Polish	PF_NONENGG
