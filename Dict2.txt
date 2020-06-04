@@ -1,1 +1,26 @@
-B\\.Tech\\. \\(Hons\\.\\) Agricultural Engineering\tG_B_ENGG\r\nMTech VLSI Design & CAD \tP_M_ENGG\r\nMTech Applied and Computational Mathematics\tP_M_ENGG\r\nM\\.B\\.A\\. in Wealth Management\tP_MBA_NONENGG\r\nB\\.A\\. in Lalit Kala\tG_B_NONENGG\r\nM\\.Phil\\. \\(Physical Education\\)\tPF_NONENGG\r\nM\\.Sc\\. \\(Physiology\\)\tP_M_NONENGG\r\nMBA in Financial Services Management\tP_MBA_NONENGG\r\nM\\.Phil\\. in Special Education\tPF_NONENGG\r\nB\\.Sc\\. \\(Entomology\\)\tG_B_NONENGG\r\nB\\.M\\.Sc\\.Mobility Science Visual Impairment\tG_B_NONENGG\r\nMSc in Applied Economics\tP_M_NONENGG\r\nBCA Multimedia & Animation\tG_B_NONENGG\r\nMaster of Business Administration in Global Peace and Security\tP_MBA_NONENGG\r\nMaster of Science in Forest Products\tP_M_NONENGG\r\nBA Human Rights\tG_B_NONENGG\r\nB\\.A\\. Drama\tG_B_NONENGG\r\nYouth Empowerment\tSPL_NONENGG\r\nBTech Agricultural Engineering\tG_B_ENGG\r\nB\\.Com\\. Hons\\. Marketing\tG_B_NONENGG\r\nM\\.A\\. Theatre\tP_M_NONENGG\r\nBachelor of Technology in Food Science\tG_B_NONENGG\r\nPost Graduate Diploma in Advanced Computing\tP_M_NONENGG\r\nMBA / PGDM in Supply Chain & Operations\tP_MBA_NONENGG\r\nBachelor of Technology - Electronic and Instrumentation Engineering\tG_B_ENGG\r\nDiploma Computer Engineering\tPF_B_ENGG\r\nManagement in Information Technology\tP_MBA_ENGG\r\nM Pharmacy\tP_M_NONENGG\r\nB Pharmacy\tG_B_NONENGG\r\n000000000000000\tDELIMITER"
+BBA in Auto Retailing	G_B_NONENGG
+Ph\.D\. Agril\. Chemistry & Soil Science	PF_NONENGG
+MTech Chemical Synthesis and Process Technologies	P_M_ENGG
+Environmental Biology	SPL_NONENGG
+MSc in Engineering Physics	P_M_NONENGG
+MSc in Polymer Chemistry	P_M_NONENGG
+M\.A\. Business Economics	P_M_NONENGG
+L\.L\.M\. International Law	P_M_NONENGG
+PhD in Bengali	PF_NONENGG
+MPhil Comparative indian Literature	PF_NONENGG
+MSc Post - harvest Technology	P_M_NONENGG
+M\.B\.A\. Wealth Management	P_MBA_NONENGG
+M\.Phil\. in Home Science	PF_NONENGG
+Bachelor of Design in Fashion Design	G_B_NONENGG
+Ph\.D\. \(Tibetan\)	PF_NONENGG
+Ph\.D\. Linguistics	PF_NONENGG
+MSc in Agriculture Chemistry & Soil Science	P_M_NONENGG
+BSc in Agricultural Biotechnology	G_B_NONENGG
+M\.Tech\. \(Sugar Engineering\)	P_M_ENGG
+M\.E\. in Internal Combustion Engineering	P_M_ENGG
+Master of Engineering in Environment Management	P_M_ENGG
+Oils, Oleochemicals and Surfactants Technology	SPL_ENGG
+M\.E\. \(Chemical Engineering\)	P_M_ENGG
+PhD in Malayalam	PF_NONENGG
+B\.E\. Automobile Engineering	G_B_ENGG
+B\.E\.	G_B_ENGG
