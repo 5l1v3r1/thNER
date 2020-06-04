@@ -24,3 +24,15 @@ M\.E\. \(Chemical Engineering\)	P_M_ENGG
 PhD in Malayalam	PF_NONENGG
 B\.E\. Automobile Engineering	G_B_ENGG
 B\.E\.	G_B_ENGG
+M\.Sc\. \(Bio - textiles\)	P_M_NONENGG
+B\.Sc\. \(Agro - Chemical and Pest Control\)	G_B_NONENGG
+BFA Bharatnatayam	G_B_NONENGG
+B\.A\. in Hons in English Literature	G_B_NONENGG
+Master of Technology in Bio Pharmaceutical Technology	P_M_ENGG
+M\.Sc\. Actuarial Science	P_M_NONENGG
+M\.E\. in Digital Communication & Networking	P_M_ENGG
+Corporate Economics	SPL_NONENGG
+BA Hons in Journalism	G_B_NONENGG
+M\.Tech\. Power Electronics	P_M_ENGG
+Ph\.D\. \(Tourism Management\)	PF_NONENGG
+M\.Sc\. \(Applied Biology\)	P_M_NONENGG
