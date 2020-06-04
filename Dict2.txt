@@ -36,3 +36,11 @@ BA Hons in Journalism	G_B_NONENGG
 M\.Tech\. Power Electronics	P_M_ENGG
 Ph\.D\. \(Tourism Management\)	PF_NONENGG
 M\.Sc\. \(Applied Biology\)	P_M_NONENGG
+(?i)(Acharya)(?-i)	P_OrientalLearning
+(?i)(Ayurveda Vachaspati)(?-i)	PF_Ayurveda
+(?i)(B\.?A\.? (in )?AIH)(?-i)	G_Arts
+(?i)(B\.?A\.? (in )?Anthropology)(?-i)	G_Arts
+(?i)(B\.?A\.? (in )?Arts)(?-i)	G_Arts
+(?i)(B\.?A\.? (in )?Economics)(?-i)	G_Arts
+(?i)(B\.?A\.? (in )?English )(?-i)	G_Arts
+(?i)(B\.?A\.? (in )?English Literature)(?-i)	G_Arts
