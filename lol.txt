@@ -18319,3 +18319,928 @@ M\.Sc\. Wildlife Biology & Conservation	P_M_NONENGG
 M\.Tech\. \(Farm Power & Machinery\)	P_M_ENGG
 M\.B\.A\. \(Hospital Management\)	P_MBA_NONENGG
 Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
+(?i)(Acharya)(?-i)	P_OrientalLearning
+(?i)(Ayurveda Vachaspati)(?-i)	PF_Ayurveda
+(?i)(B\.?A\.? (in )?AIH)(?-i)	G_Arts
+(?i)(B\.?A\.? (in )?Anthropology)(?-i)	G_Arts
+(?i)(B\.?A\.? (in )?Arts)(?-i)	G_Arts
+(?i)(B\.?A\.? (in )?Economics)(?-i)	G_Arts
+(?i)(B\.?A\.? (in )?English )(?-i)	G_Arts
+(?i)(B\.?A\.? (in )?English Literature)(?-i)	G_Arts
+(?i)(B\.?A\.? (in )?Hindi)(?-i)	G_Arts
+(?i)(B\.?A\.? (in )?History)(?-i)	G_Arts
+(?i)(B\.?A\.? (in )?Language)(?-i)	G_Arts
+(?i)(B\.?A\.? (in )?Linguistics)(?-i)	G_Arts
+(?i)(B\.?A\.? (in )?Math)(?-i)	G_Arts
+(?i)(B\.?A\.? (in )?Music)(?-i)	G_Arts
+(?i)(B\.?A\.? (in )?Philosophy)(?-i)	G_Arts
+(?i)(B\.?A\.? (in )?Political Sc\.?)(?-i)	G_Arts
+(?i)(B\.?A\.? (in )?Psychology)(?-i)	G_Arts
+(?i)(B\.?A\.? (in )?Sanskrit)(?-i)	G_Arts
+(?i)(B\.?A\.? (in )?Security Management)(?-i)	G_Arts
+(?i)(B\.?A\.? (in )?Shastra)(?-i)	G_Arts
+(?i)(B\.?A\.? (in )?Sociology)(?-i)	G_Arts
+(?i)(B\.?A\.? (in )?Tamil Literature)(?-i)	G_Arts
+(?i)(B\.?A\.? (in )?Urdu)(?-i)	G_Arts
+(?i)(B\.?A\.? (in )?Vedantha)(?-i)	G_Arts
+(?i)(B\.?A\.? (in )?Yoga for Human Excellence)(?-i)	G_Arts
+(?i)(B\.?A\.? B\.?Ed\.? (in )?Economics)(?-i)	IS_Education
+(?i)(B\.?A\.? B\.?Ed\.? (in )?Geography)(?-i)	IS_Education
+(?i)(B\.?A\.? B\.?Ed\.? (in )?Hindi Lit\.?)(?-i)	IS_Education
+(?i)(B\.?A\.? B\.?Ed\.? (in )?History)(?-i)	IS_Education
+(?i)(B\.?A\.? B\.?Ed\.? (in )?Political Sci\.?)(?-i)	IS_Education
+(?i)(B\.?A\.? B\.?Ed\.?)(?-i)	IS_Education
+(?i)(B\.?A\.? L\.?L\.?B\.? (in )?LAW)(?-i)	IS_Law
+(?i)(B\.?A\.? L\.?L\.?B\.? (in )?Law)(?-i)	IS_Law
+(?i)(B\.?A\.? L\.?L\.?B\.?)(?-i)	IS_Law
+(?i)(B\.?A\.?(Hons) (in )?Arts)(?-i)	G_OtherSocialScience
+(?i)(B\.?A\.?(Hons) (in )?BA (Arabic))(?-i)	G_OtherForeignLanguages
+(?i)(B\.?A\.?(Hons) (in )?BA (English))(?-i)	G_OtherForeignLanguages
+(?i)(B\.?A\.?(Hons) (in )?BA (French))(?-i)	G_OtherForeignLanguages
+(?i)(B\.?A\.?(Hons) (in )?BA (German))(?-i)	G_OtherForeignLanguages
+(?i)(B\.?A\.?(Hons) (in )?BA (Russian))(?-i)	G_OtherForeignLanguages
+(?i)(B\.?A\.?(Hons) (in )?BA (Spanish))(?-i)	G_OtherForeignLanguages
+(?i)(B\.?A\.?(Hons) (in )?BCJ)(?-i)	G_Journalism&MassCommunication
+(?i)(B\.?A\.?(Hons))(?-i)	G_OtherForeignLanguages
+(?i)(B\.?A\.?)(?-i)	G_Arts
+(?i)(B\.?A\.?M\.?S\.?)(?-i)	G_Ayurveda
+(?i)(B\.?Agri\.? (in )?Horticulture)(?-i)	G_Horticulture
+(?i)(B\.?Agri\.?)(?-i)	G_Agriculture
+(?i)(B\.?Architecture)(?-i)	G_Architecture
+(?i)(B\.?B\.?A\.? (in )?Airline and Airport Management)(?-i)	G_BusinessAdministration
+(?i)(B\.?B\.?A\.? (in )?Business Administration)(?-i)	G_BusinessAdministration
+(?i)(B\.?B\.?A\.? (in )?Business Management)(?-i)	G_BusinessAdministration
+(?i)(B\.?B\.?A\.? (in )?International Shipping and Air-cargo Logistics Management)(?-i)	G_BusinessAdministration
+(?i)(B\.?B\.?A\.? (in )?Logistics and Supply Chain Management)(?-i)	G_BusinessAdministration
+(?i)(B\.?B\.?A\.? (in )?Management)(?-i)	G_BusinessAdministration
+(?i)(B\.?B\.?A\.? (in )?Shipping and Port Management)(?-i)	G_BusinessAdministration
+(?i)(B\.?B\.?A\.? L\.?L\.?B\.?)(?-i)	IS_Law
+(?i)(B\.?B\.?A\.?)(?-i)	G_BusinessAdministration
+(?i)(B\.?B\.?M\.?)(?-i)	G_BusinessManagement
+(?i)(B\.?C\.?A\.? (in )?Bachelor Computer Application)(?-i)	G_ComputerApplication
+(?i)(B\.?C\.?A\.? (in )?Computer Application)(?-i)	G_ComputerApplication
+(?i)(B\.?C\.?A\.? (in )?Computer Applications)(?-i)	G_ComputerApplication
+(?i)(B\.?C\.?A\.?)(?-i)	G_ComputerApplication
+(?i)(B\.?Com\.? (in )?Commerce with Computer Applications)(?-i)	G_Commerce
+(?i)(B\.?Com\.? (in )?Commerce)(?-i)	G_Commerce
+(?i)(B\.?Com\.?)(?-i)	G_Commerce
+(?i)(B\.?Ed\.? (in )?Bachelor of Education)(?-i)	G_Education
+(?i)(B\.?Ed\.? (in )?Education)(?-i)	G_Education
+(?i)(B\.?Ed\.? (in )?English)(?-i)	G_Education
+(?i)(B\.?Ed\.? (in )?Shiksha Shastra)(?-i)	G_Education
+(?i)(B\.?Ed\.?)(?-i)	G_Education
+(?i)(B\.?F\.?A\.? (in )?Applied Art)(?-i)	G_FineArts
+(?i)(B\.?F\.?A\.? (in )?Fine Arts)(?-i)	G_FineArts
+(?i)(B\.?F\.?A\.?)(?-i)	G_FineArts
+(?i)(B\.?F\.?Sc\.?)(?-i)	G_FisheriesScience
+(?i)(B\.?H\.?M\.? (in )?Food Production)(?-i)	G_HotelManagement
+(?i)(B\.?H\.?M\.? (in )?GNM)(?-i)	PF_Nursing
+(?i)(B\.?H\.?M\.?)(?-i)	G_HotelManagement
+(?i)(B\.?H\.?M\.?S\.?)(?-i)	G_Homeopathy
+(?i)(B\.?J\.?)(?-i)	G_Journalism&MassCommunication
+(?i)(B\.?J\.?M\.?C\.? (in )?Journalism)(?-i)	G_Journalism&MassCommunication
+(?i)(B\.?J\.?M\.?C\.?)(?-i)	G_Journalism&MassCommunication
+(?i)(B\.?Lib\.?I\.?Sc\.? (in )?Library & Information)(?-i)	G_Library&InformationScience
+(?i)(B\.?Lib\.?I\.?Sc\.? (in )?Library)(?-i)	G_Library&InformationScience
+(?i)(B\.?Lib\.?I\.?Sc\.?)(?-i)	G_Library&InformationScience
+(?i)(B\.?Litt\.? (in )?Literature in Tamil)(?-i)	G_Linguistics
+(?i)(B\.?Litt\.?)(?-i)	G_Linguistics
+(?i)(B\.?Mus\.?)(?-i)	G_Music
+(?i)(B\.?N\.?Y\.?S\.?)(?-i)	G_OtherMedicalScience
+(?i)(B\.?P\.?A\.? (in )?Classical Vocal-BPA-)(?-i)	G_PerformingArts
+(?i)(B\.?P\.?A\.? (in )?Swaravadya-BPA)(?-i)	G_PerformingArts
+(?i)(B\.?P\.?A\.? (in )?Taalvadya-BPA)(?-i)	G_PerformingArts
+(?i)(B\.?P\.?A\.?)(?-i)	G_PerformingArts
+(?i)(B\.?Pharm\.?)(?-i)	G_Pharmacy
+(?i)(B\.?S\.?W\.? (in )?Community college)(?-i)	G_SocialWork
+(?i)(B\.?S\.?W\.? (in )?Social Work)(?-i)	G_SocialWork
+(?i)(B\.?S\.?W\.?)(?-i)	G_SocialWork
+(?i)(B\.?Sc\.? (in )?Animation and VFX)(?-i)	G_Animation
+(?i)(B\.?Sc\.? (in )?Animation, Game Design and Development)(?-i)	G_Animation
+(?i)(B\.?Sc\.? (in )?Anthropology)(?-i)	G_Science
+(?i)(B\.?Sc\.? (in )?Botany)(?-i)	G_Science
+(?i)(B\.?Sc\.? (in )?Catering Science and Hospitality Management)(?-i)	G_Science
+(?i)(B\.?Sc\.? (in )?Catering Science and Hotel Management)(?-i)	G_Science
+(?i)(B\.?Sc\.? (in )?Chemistry)(?-i)	G_Science
+(?i)(B\.?Sc\.? (in )?Computer Science)(?-i)	G_ComputerScience
+(?i)(B\.?Sc\.? (in )?Costume Design and Fashion)(?-i)	G_FashionTechnology
+(?i)(B\.?Sc\.? (in )?Criminology)(?-i)	G_Science
+(?i)(B\.?Sc\.? (in )?Economics)(?-i)	G_Science
+(?i)(B\.?Sc\.? (in )?Geography)(?-i)	G_Science
+(?i)(B\.?Sc\.? (in )?Geology)(?-i)	G_Science
+(?i)(B\.?Sc\.? (in )?Hotel Management)(?-i)	G_Science
+(?i)(B\.?Sc\.? (in )?Information Technology)(?-i)	G_InformationTechnology
+(?i)(B\.?Sc\.? (in )?Mathematics)(?-i)	G_Science
+(?i)(B\.?Sc\.? (in )?Maths)(?-i)	G_Science
+(?i)(B\.?Sc\.? (in )?Mechanical engineering)(?-i)	PF_MechanicalEngineering
+(?i)(B\.?Sc\.? (in )?Optometrics)(?-i)	G_Science
+(?i)(B\.?Sc\.? (in )?Pharmaceutical Sc\.?)(?-i)	G_Science
+(?i)(B\.?Sc\.? (in )?Physics)(?-i)	G_Science
+(?i)(B\.?Sc\.? (in )?Psychology)(?-i)	G_Science
+(?i)(B\.?Sc\.? (in )?Science)(?-i)	G_Science
+(?i)(B\.?Sc\.? (in )?Statistics)(?-i)	G_Science
+(?i)(B\.?Sc\.? (in )?Visual Communications(Electronic Media))(?-i)	G_Science
+(?i)(B\.?Sc\.? (in )?Zoology)(?-i)	G_Science
+(?i)(B\.?Sc\.? B\.?Ed\.? (in )?Botany)(?-i)	IS_Education
+(?i)(B\.?Sc\.? B\.?Ed\.? (in )?Chemistry)(?-i)	IS_Education
+(?i)(B\.?Sc\.? B\.?Ed\.? (in )?Mathematics)(?-i)	IS_Education
+(?i)(B\.?Sc\.? B\.?Ed\.? (in )?Physics)(?-i)	IS_Education
+(?i)(B\.?Sc\.? B\.?Ed\.? (in )?Zoology)(?-i)	IS_Education
+(?i)(B\.?Sc\.? B\.?Ed\.?)(?-i)	IS_Education
+(?i)(B\.?Sc\.?(Hons) (in )?Science)(?-i)	G_ComputerScience
+(?i)(B\.?Sc\.?(Hons))(?-i)	G_OtherScience
+(?i)(B\.?Sc\.?(Nursing) (in )?Ayurved Nursing)(?-i)	G_Nursing
+(?i)(B\.?Sc\.?(Nursing) (in )?B\.? Sc\.? (N) with min 55% marks+1year Job Experience)(?-i)	G_MedicalScience
+(?i)(B\.?Sc\.?(Nursing) (in )?B\.?Sc Nursing)(?-i)	G_Nursing
+(?i)(B\.?Sc\.?(Nursing) (in )?M\.?Sc\.? Nursing-Master of Science in Nursing)(?-i)	P_Nursing
+(?i)(B\.?Sc\.?(Nursing) (in )?Nursing)(?-i)	G_Nursing
+(?i)(B\.?Sc\.?(Nursing) (in )?PBBB\.?Sc Nursing)(?-i)	G_Nursing
+(?i)(B\.?Sc\.?(Nursing) (in )?science/arts/commerce)(?-i)	PF_ElectricalEngineering
+(?i)(B\.?Sc\.?(Nursing))(?-i)	G_Nursing
+(?i)(B\.?Sc\.?)(?-i)	G_Science
+(?i)(B\.?Tech\.? (in )?Agril\.? Engg)(?-i)	G_AgricultureEngineering
+(?i)(B\.?Tech\.? (in )?Applied Electronics & Engg)(?-i)	G_ElectronicsEngineering
+(?i)(B\.?Tech\.? (in )?CSE)(?-i)	G_ComputerEngineering
+(?i)(B\.?Tech\.? (in )?Civil)(?-i)	G_CivilEngineering
+(?i)(B\.?Tech\.? (in )?Computer Science)(?-i)	G_ComputerEngineering
+(?i)(B\.?Tech\.? (in )?ECE)(?-i)	G_ElectronicsEngineering
+(?i)(B\.?Tech\.? (in )?EEE)(?-i)	G_ElectricalEngineering
+(?i)(B\.?Tech\.? (in )?Electrical Engg)(?-i)	G_ElectricalEngineering
+(?i)(B\.?Tech\.? (in )?Engineering)(?-i)	G_ElectronicsEngineering
+(?i)(B\.?Tech\.? (in )?IT)(?-i)	G_InformationTechnology
+(?i)(B\.?Tech\.? (in )?MECH)(?-i)	G_MechanicalEngineering
+(?i)(B\.?Tech\.? (in )?MET)(?-i)	G_MetallurgicalEngineering
+(?i)(B\.?Tech\.? (in )?Mechanical)(?-i)	G_MechanicalEngineering
+(?i)(B\.?Tech\.? (in )?PCE)(?-i)	G_OtherEngineering&Technology
+(?i)(B\.?Tech\.? (in )?PE)(?-i)	G_OtherEngineering&Technology
+(?i)(B\.?Tech\.?)(?-i)	G_MechanicalEngineering
+(?i)(B\.?U\.?M\.?S\.?)(?-i)	G_Unani
+(?i)(B\.?V\.?Sc\.?&A\.?H\.? (in )?Veterinary)(?-i)	G_Veterinary&AnimalSciences
+(?i)(B\.?V\.?Sc\.?&A\.?H\.?)(?-i)	G_Veterinary&AnimalSciences
+(?i)(B\.?Voc\.? (in )?Film and Video Production)(?-i)	G_Education
+(?i)(B\.?Voc\.? (in )?Rubber Technology)(?-i)	G_Education
+(?i)(B\.?Voc\.?)(?-i)	G_Education
+(?i)(Bachelor of Agriculture)(?-i)	G_Agriculture
+(?i)(Bachelor of Architecture)(?-i)	G_Architecture
+(?i)(Bachelor of Arts (Honors))(?-i)	G_OtherForeignLanguages
+(?i)(Bachelor of Arts)(?-i)	G_Arts
+(?i)(Bachelor of Arts, Bachelor of Education)(?-i)	IS_Education
+(?i)(Bachelor of Arts, Bachelor of Law or Laws)(?-i)	IS_Law
+(?i)(Bachelor of Ayurved Medicine & Surgery)(?-i)	G_Ayurveda
+(?i)(Bachelor of Business Administration)(?-i)	G_BusinessAdministration
+(?i)(Bachelor of Business Administration, Bachelor of Law or Laws)(?-i)	IS_Law
+(?i)(Bachelor of Business Management)(?-i)	G_BusinessManagement
+(?i)(Bachelor of Commerce)(?-i)	G_Commerce
+(?i)(Bachelor of Computer Applications)(?-i)	G_ComputerApplication
+(?i)(Bachelor of Education)(?-i)	G_Education
+(?i)(Bachelor of Fine Arts)(?-i)	G_FineArts
+(?i)(Bachelor of Fisheries Science)(?-i)	G_FisheriesScience
+(?i)(Bachelor of Homeopathic Medicine and Surgery)(?-i)	G_Homeopathy
+(?i)(Bachelor of Hotel Management)(?-i)	G_HotelManagement
+(?i)(Bachelor of Journalism and Mass Communication)(?-i)	G_Journalism&MassCommunication
+(?i)(Bachelor of Journalism)(?-i)	G_Journalism&MassCommunication
+(?i)(Bachelor of Law or Laws)(?-i)	G_Law
+(?i)(Bachelor of Library & Information Science)(?-i)	G_Library&InformationScience
+(?i)(Bachelor of Literature)(?-i)	G_Linguistics
+(?i)(Bachelor of Medicine and Bachelor of Surgery)(?-i)	G_GeneralMedicine
+(?i)(Bachelor of Music)(?-i)	G_Music
+(?i)(Bachelor of Naturopathy and Yogic Sciences)(?-i)	G_OtherMedicalScience
+(?i)(Bachelor of Performing Arts)(?-i)	G_PerformingArts
+(?i)(Bachelor of Pharmacy)(?-i)	G_Pharmacy
+(?i)(Bachelor of Science (Honors))(?-i)	G_OtherScience
+(?i)(Bachelor of Science in Nursing)(?-i)	G_Nursing
+(?i)(Bachelor of Science)(?-i)	G_Science
+(?i)(Bachelor of Science, Bachelor of Education)(?-i)	IS_Education
+(?i)(Bachelor of Social Work)(?-i)	G_SocialWork
+(?i)(Bachelor of Technology)(?-i)	G_MechanicalEngineering
+(?i)(Bachelor of Unani Medicine and Surgery)(?-i)	G_Unani
+(?i)(Bachelor of Veterinary Science & Animal Husbandry)(?-i)	G_Veterinary&AnimalSciences
+(?i)(Bachelor of Vocational Education)(?-i)	G_Education
+(?i)(Certificate (in )?AME course)(?-i)	C_AeronauticalEngineering
+(?i)(Certificate (in )?AVIONICS)(?-i)	C_Education
+(?i)(Certificate (in )?Acupuncture Science)(?-i)	C_OtherScience
+(?i)(Certificate (in )?Application of Technology in Hospital Environment)(?-i)	C_HospitalAdministration
+(?i)(Certificate (in )?Bharatanatyam)(?-i)	C_PerformingArts
+(?i)(Certificate (in )?Bloodbanking Technology)(?-i)	C_Pathology
+(?i)(Certificate (in )?Chou)(?-i)	C_PerformingArts
+(?i)(Certificate (in )?Civil Engg\.?)(?-i)	PF_MechanicalEngineering
+(?i)(Certificate (in )?Classical Vocal-Parichaya)(?-i)	C_PerformingArts
+(?i)(Certificate (in )?Classical Vocal-Praveshika)(?-i)	C_PerformingArts
+(?i)(Certificate (in )?Dance-Parichaya)(?-i)	C_PerformingArts
+(?i)(Certificate (in )?Dance-Praveshika)(?-i)	C_PerformingArts
+(?i)(Certificate (in )?Education)(?-i)	C_Education
+(?i)(Certificate (in )?Elect\.? & Comm\.? Engg\.?)(?-i)	PF_Nursing
+(?i)(Certificate (in )?Kuchipudi)(?-i)	C_PerformingArts
+(?i)(Certificate (in )?MECHANICAL)(?-i)	C_Education
+(?i)(Certificate (in )?Medical)(?-i)	C_Ent
+(?i)(Certificate (in )?Music)(?-i)	C_Music
+(?i)(Certificate (in )?Osteopathy & Marma Chikitsa)(?-i)	C_Ayurveda
+(?i)(Certificate (in )?Panchakarma Assistant)(?-i)	C_Ayurveda
+(?i)(Certificate (in )?Phlabatomo Technology)(?-i)	C_Pathology
+(?i)(Certificate (in )?Pre University Certificate Part l)(?-i)	C_AreaStudies
+(?i)(Certificate (in )?Pre University Certificate Part ll)(?-i)	C_AreaStudies
+(?i)(Certificate (in )?Pre University Certificate Vocational Part l)(?-i)	C_AreaStudies
+(?i)(Certificate (in )?Pre University Certificate Vocational Part ll)(?-i)	C_AreaStudies
+(?i)(Certificate (in )?Special Course-Folk Dance)(?-i)	C_PerformingArts
+(?i)(Certificate (in )?Special Course-Harmonium)(?-i)	C_PerformingArts
+(?i)(Certificate (in )?Special Course-Light Music)(?-i)	C_PerformingArts
+(?i)(Certificate (in )?Special Course-Thumri)(?-i)	C_PerformingArts
+(?i)(Certificate (in )?Swaravadya-Parichaya)(?-i)	C_PerformingArts
+(?i)(Certificate (in )?Swaravadya-Praveshika)(?-i)	C_PerformingArts
+(?i)(Certificate (in )?Taalvadya-Parichay)(?-i)	C_PerformingArts
+(?i)(Certificate (in )?Taalvadya-Praveshika)(?-i)	C_PerformingArts
+(?i)(Certificate (in )?Tamil Pulavar Training)(?-i)	C_Tamil
+(?i)(Certificate (in )?Yoga & Natropathy)(?-i)	C_Ayurveda
+(?i)(D\.?M\.? (in )?CLINICAL PHARMACOLOGY)(?-i)	PF_Pharmacy
+(?i)(D\.?M\.? (in )?ENDOCRINOLOGY)(?-i)	PF_Endocrinology
+(?i)(D\.?M\.? (in )?GASTROENTEROLOGY)(?-i)	PF_Gastroenterology
+(?i)(D\.?M\.? (in )?HEPATOLOGY)(?-i)	PF_Hepatology
+(?i)(D\.?M\.? (in )?NEONATOLOGY)(?-i)	PF_Pediatrics
+(?i)(D\.?M\.? (in )?NEPHROLOGY)(?-i)	PF_Nephrology
+(?i)(D\.?M\.? (in )?NEUROLOGY)(?-i)	PF_Neurology
+(?i)(D\.?M\.? (in )?PEDIATRICS CRITICAL CARE)(?-i)	PF_Pediatrics
+(?i)(D\.?M\.? (in )?PEDIATRICS HEMATO-ONCOLOGY)(?-i)	PF_Oncology
+(?i)(D\.?M\.? (in )?PULMONARY & CRITICAL CARE MEDICINE)(?-i)	PF_OtherMedicalScience
+(?i)(D\.?M\.?)(?-i)	PF_Cardiology
+(?i)(D\.?Pharma)(?-i)	PF_Pharmacy
+(?i)(Diploma (in )?AME course)(?-i)	PF_ElectronicsEngineering
+(?i)(Diploma (in )?AME)(?-i)	PF_AeronauticalEngineering
+(?i)(Diploma (in )?ANUVAAD)(?-i)	PF_Hindi
+(?i)(Diploma (in )?Acupuncture Science)(?-i)	PF_OtherMedicalScience
+(?i)(Diploma (in )?Aeronautical Engineering)(?-i)	PF_AeronauticalEngineering
+(?i)(Diploma (in )?Agriculture)(?-i)	PF_Agriculture
+(?i)(Diploma (in )?Agro-Processing)(?-i)	PF_Agriculture
+(?i)(Diploma (in )?Airline and Airport Management)(?-i)	PF_OtherManagement
+(?i)(Diploma (in )?Animal Science)(?-i)	PF_Veterinary&AnimalSciences
+(?i)(Diploma (in )?Archeology & Tourism)(?-i)	PF_History
+(?i)(Diploma (in )?Architecture)(?-i)	PF_Architecture
+(?i)(Diploma (in )?Automobile)(?-i)	PF_OtherEngineering&Technology
+(?i)(Diploma (in )?Ayush Nursing)(?-i)	PF_Nursing
+(?i)(Diploma (in )?B\.?Sc Nursing)(?-i)	G_Nursing
+(?i)(Diploma (in )?Bharatanatyam)(?-i)	PF_PerformingArts
+(?i)(Diploma (in )?CIVIL ENGG)(?-i)	PF_CivilEngineering
+(?i)(Diploma (in )?CIVIL ENGINEERING)(?-i)	PF_CivilEngineering
+(?i)(Diploma (in )?CIVIL)(?-i)	PF_CivilEngineering
+(?i)(Diploma (in )?COMPUTER APPLICATION)(?-i)	PF_ComputerApplication
+(?i)(Diploma (in )?COMPUTER ENGG)(?-i)	PF_ComputerEngineering
+(?i)(Diploma (in )?COMPUTER ENGINEERING)(?-i)	PF_ComputerEngineering
+(?i)(Diploma (in )?COMPUTER SCIENCE ENGINEERING)(?-i)	PF_ComputerEngineering
+(?i)(Diploma (in )?CSE)(?-i)	PF_ComputerEngineering
+(?i)(Diploma (in )?Catering Science and Hotel Management)(?-i)	PF_HotelManagement
+(?i)(Diploma (in )?Civil Engg)(?-i)	PF_CivilEngineering
+(?i)(Diploma (in )?Civil Engg\.?)(?-i)	PF_CivilEngineering
+(?i)(Diploma (in )?Civil Engineering)(?-i)	PF_CivilEngineering
+(?i)(Diploma (in )?Civil engineering)(?-i)	PF_CivilEngineering
+(?i)(Diploma (in )?Civil)(?-i)	PF_CivilEngineering
+(?i)(Diploma (in )?Classical Vocal-Parangat)(?-i)	PF_PerformingArts
+(?i)(Diploma (in )?Classical Vocal-Prabuddha)(?-i)	PF_PerformingArts
+(?i)(Diploma (in )?Commercial practice)(?-i)	PF_Commerce
+(?i)(Diploma (in )?Computer Engg)(?-i)	PF_ComputerEngineering
+(?i)(Diploma (in )?Computer Engineering)(?-i)	PF_ComputerEngineering
+(?i)(Diploma (in )?Computer Science)(?-i)	PF_ComputerEngineering
+(?i)(Diploma (in )?Computer science)(?-i)	PF_ComputerEngineering
+(?i)(Diploma (in )?DAT)(?-i)	PF_Anesthesiology
+(?i)(Diploma (in )?DCT)(?-i)	PF_Cardiology
+(?i)(Diploma (in )?DDT)(?-i)	PF_Nephrology
+(?i)(Diploma (in )?DIFAT)(?-i)	PF_BusinessManagement
+(?i)(Diploma (in )?DMLT)(?-i)	PF_Bio-technology
+(?i)(Diploma (in )?DMRT)(?-i)	PF_Radiothrapy
+(?i)(Diploma (in )?DNT)(?-i)	PF_Neurology
+(?i)(Diploma (in )?DOT)(?-i)	PF_Anesthesiology
+(?i)(Diploma (in )?DUT)(?-i)	PF_Urology
+(?i)(Diploma (in )?D\.?El\.?Ed Course)(?-i)	PF_Education
+(?i)(Diploma (in )?D\.?El\.?Ed\.? Course)(?-i)	PF_Education
+(?i)(Diploma (in )?Dance-Parangat)(?-i)	PF_PerformingArts
+(?i)(Diploma (in )?Dance-Prabuddha)(?-i)	PF_PerformingArts
+(?i)(Diploma (in )?ECE)(?-i)	PF_ElectronicsEngineering
+(?i)(Diploma (in )?EEE)(?-i)	PF_ElectricalEngineering
+(?i)(Diploma (in )?ELECTRICAL AND ELECTRONICS ENGINEERING)(?-i)	PF_ElectricalEngineering
+(?i)(Diploma (in )?ELECTRICAL ENGG)(?-i)	PF_ElectricalEngineering
+(?i)(Diploma (in )?ELECTRONICS AND COMMUNICATION ENGINEERING)(?-i)	PF_ElectronicsEngineering
+(?i)(Diploma (in )?Elect\.? & Comm\.? Engg\.?)(?-i)	PF_ElectronicsEngineering
+(?i)(Diploma (in )?Electrical & Electronics Engineering)(?-i)	PF_ElectricalEngineering
+(?i)(Diploma (in )?Electrical Engg\.?)(?-i)	PF_ElectricalEngineering
+(?i)(Diploma (in )?Electrical Engineering)(?-i)	PF_ElectricalEngineering
+(?i)(Diploma (in )?Electrical and Electronics engineering)(?-i)	PF_ElectricalEngineering
+(?i)(Diploma (in )?Electronics & Comm\.? Engineering)(?-i)	PF_ElectronicsEngineering
+(?i)(Diploma (in )?Electronics and Communication Engg\.?)(?-i)	PF_ElectronicsEngineering
+(?i)(Diploma (in )?Electronics and communication Engineering)(?-i)	PF_ElectronicsEngineering
+(?i)(Diploma (in )?Engineering)(?-i)	PF_AgricultureEngineering
+(?i)(Diploma (in )?Entrepreneurship Administration and Business Laws)(?-i)	PF_Law
+(?i)(Diploma (in )?Epigraphy)(?-i)	PF_History
+(?i)(Diploma (in )?Fish & fisheries)(?-i)	PF_FisheriesScience
+(?i)(Diploma (in )?Food Production)(?-i)	PF_OtherManagement
+(?i)(Diploma (in )?French)(?-i)	PF_French
+(?i)(Diploma (in )?GENERAL NURSING AND MIDWIFERY)(?-i)	PF_Nursing
+(?i)(Diploma (in )?GNM)(?-i)	PF_Nursing
+(?i)(Diploma (in )?General Management)(?-i)	P_BusinessManagement
+(?i)(Diploma (in )?German)(?-i)	PF_German
+(?i)(Diploma (in )?Green Farming)(?-i)	PF_Agriculture
+(?i)(Diploma (in )?Home Science)(?-i)	PF_Agriculture
+(?i)(Diploma (in )?Horticulture)(?-i)	PF_Horticulture
+(?i)(Diploma (in )?Hospitality Management)(?-i)	PF_OtherManagement
+(?i)(Diploma (in )?Hotel Management)(?-i)	PF_HotelManagement
+(?i)(Diploma (in )?Information and communication Technology)(?-i)	PF_OtherSocialScience
+(?i)(Diploma (in )?Infrastructure Management Services)(?-i)	PF_InformationTechnology
+(?i)(Diploma (in )?JOURNALISM & COMMUNICATION)(?-i)	PF_Journalism&MassCommunication
+(?i)(Diploma (in )?Kannada)(?-i)	PF_Linguistics
+(?i)(Diploma (in )?Kuchipudi)(?-i)	PF_PerformingArts
+(?i)(Diploma (in )?MC)(?-i)	PF_MechanicalEngineering
+(?i)(Diploma (in )?ME)(?-i)	PF_MechanicalEngineering
+(?i)(Diploma (in )?MECHANICAL ENGG)(?-i)	PF_MechanicalEngineering
+(?i)(Diploma (in )?MECHANICAL ENGINEERING)(?-i)	PF_MechanicalEngineering
+(?i)(Diploma (in )?MECHANICAL)(?-i)	PF_MechanicalEngineering
+(?i)(Diploma (in )?Mass Communication)(?-i)	PF_Journalism&MassCommunication
+(?i)(Diploma (in )?Mechanical Engg\.?)(?-i)	PF_MechanicalEngineering
+(?i)(Diploma (in )?Mechanical Engineering)(?-i)	PF_MechanicalEngineering
+(?i)(Diploma (in )?Mechanical engineering)(?-i)	PF_MechanicalEngineering
+(?i)(Diploma (in )?Mechanical)(?-i)	PF_MechanicalEngineering
+(?i)(Diploma (in )?Mechatronics)(?-i)	PF_OtherEngineering&Technology
+(?i)(Diploma (in )?NURSING)(?-i)	PF_Nursing
+(?i)(Diploma (in )?Nursing)(?-i)	PF_LifeScience
+(?i)(Diploma (in )?Opthalmic)(?-i)	PF_Ophthalmology
+(?i)(Diploma (in )?Regular)(?-i)	PF_Education
+(?i)(Diploma (in )?SCIENCE)(?-i)	PF_Horticulture
+(?i)(Diploma (in )?Security Management)(?-i)	PF_Criminology&ForensicScience
+(?i)(Diploma (in )?Swaravadya-Parangat)(?-i)	PF_PerformingArts
+(?i)(Diploma (in )?Swaravadya-Prabuddha)(?-i)	PF_PerformingArts
+(?i)(Diploma (in )?Taalvadya-Parangat)(?-i)	PF_PerformingArts
+(?i)(Diploma (in )?Taalvadya-Prabuddha)(?-i)	PF_PerformingArts
+(?i)(Diploma (in )?Theatre Art)(?-i)	PF_FineArts
+(?i)(Diploma (in )?Tourism Management)(?-i)	PF_BusinessManagement
+(?i)(Diploma (in )?Translation Studies)(?-i)	PF_Linguistics
+(?i)(Diploma (in )?Visual Art)(?-i)	PF_FineArts
+(?i)(Diploma (in )?Yoga for Human Excellence (Part Time))(?-i)	PF_Yoga
+(?i)(Diploma (in )?agri)(?-i)	PF_Agriculture
+(?i)(Diploma (in )?antomy, community health nursing, fundamental of nursing)(?-i)	PF_Nursing
+(?i)(Diploma (in )?art)(?-i)	PF_OtherSocialScience
+(?i)(Diploma (in )?medical science)(?-i)	PF_OtherMedicalScience
+(?i)(Diploma (in )?nursing)(?-i)	PF_Nursing
+(?i)(Diploma (in )?science)(?-i)	PF_ComputerScience
+(?i)(Diploma in Pharmacy)(?-i)	PF_Pharmacy
+(?i)(Doctor of Laws)(?-i)	PF_Law
+(?i)(Doctor of Medicine)(?-i)	P_Ayurveda
+(?i)(Doctor of Philosophy)(?-i)	PF_OtherEngineering&Technology
+(?i)(G\.?N\.?M\.? (in )?80)(?-i)	PF_Nursing
+(?i)(G\.?N\.?M\.? (in )?B\.?Sc Nursing)(?-i)	G_Nursing
+(?i)(G\.?N\.?M\.? (in )?CIVIL)(?-i)	PF_Nursing
+(?i)(G\.?N\.?M\.? (in )?Computer Engineering)(?-i)	PF_ElectronicsEngineering
+(?i)(G\.?N\.?M\.? (in )?D\.?El\.?Ed\.? Course)(?-i)	PF_Education
+(?i)(G\.?N\.?M\.? (in )?Electrical & Electronics Engineering)(?-i)	G_Nursing
+(?i)(G\.?N\.?M\.? (in )?GENERAL NURSING AND MIDWIFERY)(?-i)	PF_Nursing
+(?i)(G\.?N\.?M\.? (in )?GNM)(?-i)	PF_Nursing
+(?i)(G\.?N\.?M\.? (in )?MC)(?-i)	PF_ElectricalEngineering
+(?i)(G\.?N\.?M\.? (in )?Marketing, HR, Finance, IB)(?-i)	PF_ComputerEngineering
+(?i)(G\.?N\.?M\.? (in )?NURSING)(?-i)	PF_Nursing
+(?i)(G\.?N\.?M\.? (in )?Nursing)(?-i)	PF_Nursing
+(?i)(G\.?N\.?M\.? (in )?Rural Management)(?-i)	C_Education
+(?i)(G\.?N\.?M\.? (in )?anatomy, community health nursing)(?-i)	PF_Nursing
+(?i)(G\.?N\.?M\.? (in )?antomy, community health nursing)(?-i)	PF_Nursing
+(?i)(G\.?N\.?M\.? (in )?nursing)(?-i)	PF_Nursing
+(?i)(G\.?N\.?M\.? (in )?science/arts/commerce)(?-i)	PF_Nursing
+(?i)(G\.?N\.?M\.?)(?-i)	PF_Nursing
+(?i)(General Nursing & Midwifery)(?-i)	PF_Nursing
+(?i)(Integrated Doctor of Philosophy)(?-i)	IS_OtherScience
+(?i)(Integrated M\.?C\.?A\.?)(?-i)	IS_ComputerApplication
+(?i)(Integrated M\.?Sc\.? (in )?B\.?Tech CS & MS by Research CL)(?-i)	IS_ComputerApplication
+(?i)(Integrated M\.?Sc\.? (in )?B\.?Tech CS & MS by Research in Exact Humanities)(?-i)	IS_ComputerApplication
+(?i)(Integrated M\.?Sc\.? (in )?B\.?Tech and MS by Research in CSE)(?-i)	IS_ComputerScience
+(?i)(Integrated M\.?Sc\.? (in )?B\.?Tech and MS by Research in ECE)(?-i)	IS_ComputerApplication
+(?i)(Integrated M\.?Sc\.? (in )?B\.?Tech in CS & MS by Research in CNS)(?-i)	IS_ComputerApplication
+(?i)(Integrated M\.?Sc\.? (in )?B\.?Tech in Civil Engg & MS by Research in Building Science & Engineering)(?-i)	IS_ComputerApplication
+(?i)(Integrated M\.?Sc\.? (in )?Chemistry)(?-i)	IS_Chemistry
+(?i)(Integrated M\.?Sc\.? (in )?Mathematics)(?-i)	IS_Mathematics
+(?i)(Integrated M\.?Sc\.? (in )?Physics)(?-i)	IS_Physics
+(?i)(Integrated M\.?Sc\.?)(?-i)	IS_LifeScience
+(?i)(Integrated Master of Computer Applications)(?-i)	IS_ComputerApplication
+(?i)(Integrated Master of Science)(?-i)	IS_LifeScience
+(?i)(Integrated Ph\.?D (in )?Biology)(?-i)	IS_Bio-science
+(?i)(Integrated Ph\.?D (in )?Chemistry)(?-i)	IS_Chemistry
+(?i)(Integrated Ph\.?D (in )?Language)(?-i)	IS_Linguistics
+(?i)(Integrated Ph\.?D (in )?Mathematics)(?-i)	IS_Mathematics
+(?i)(Integrated Ph\.?D (in )?Physics)(?-i)	IS_Physics
+(?i)(Integrated Ph\.?D)(?-i)	IS_OtherScience
+(?i)(L\.?L\.?B\.? (in )?Law)(?-i)	G_Law
+(?i)(L\.?L\.?B\.?)(?-i)	G_Law
+(?i)(L\.?L\.?D\.?)(?-i)	PF_Law
+(?i)(L\.?L\.?M\.? (in )?Crime & Security Law)(?-i)	P_Law
+(?i)(L\.?L\.?M\.? (in )?Law)(?-i)	P_Law
+(?i)(L\.?L\.?M\.? (in )?law)(?-i)	P_Law
+(?i)(L\.?L\.?M\.?)(?-i)	P_Law
+(?i)(M\.?A\.? (in )?Adult and Continuing Education)(?-i)	P_OtherSocialScience
+(?i)(M\.?A\.? (in )?Ancient History and Archeology)(?-i)	P_History
+(?i)(M\.?A\.? (in )?Anna centre for public affairs)(?-i)	P_PublicAdministration
+(?i)(M\.?A\.? (in )?Anthropology)(?-i)	P_Anthropology
+(?i)(M\.?A\.? (in )?Arabic)(?-i)	P_OtherForeignLanguages
+(?i)(M\.?A\.? (in )?Arabic, Persian and Urdu)(?-i)	P_Sanskrit
+(?i)(M\.?A\.? (in )?Arts)(?-i)	P_OtherSocialScience
+(?i)(M\.?A\.? (in )?Christian studies)(?-i)	P_ChristianStudies
+(?i)(M\.?A\.? (in )?Criminology)(?-i)	P_OtherSocialScience
+(?i)(M\.?A\.? (in )?DEVELOPMENT)(?-i)	P_OtherSocialScience
+(?i)(M\.?A\.? (in )?Dr\.?Ambedkar centre for economic studies)(?-i)	P_Economics
+(?i)(M\.?A\.? (in )?EDUCATION)(?-i)	P_Education
+(?i)(M\.?A\.? (in )?Econometrics)(?-i)	P_Economics
+(?i)(M\.?A\.? (in )?Economics)(?-i)	P_Economics
+(?i)(M\.?A\.? (in )?Education)(?-i)	P_Education
+(?i)(M\.?A\.? (in )?English Literature)(?-i)	P_English
+(?i)(M\.?A\.? (in )?English)(?-i)	P_English
+(?i)(M\.?A\.? (in )?French & other foreign languages)(?-i)	P_French
+(?i)(M\.?A\.? (in )?French)(?-i)	P_French
+(?i)(M\.?A\.? (in )?German)(?-i)	P_German
+(?i)(M\.?A\.? (in )?Hindi)(?-i)	P_Hindi
+(?i)(M\.?A\.? (in )?History)(?-i)	P_History
+(?i)(M\.?A\.? (in )?Humanresource management)(?-i)	P_OtherSocialScience
+(?i)(M\.?A\.? (in )?Indian History)(?-i)	P_History
+(?i)(M\.?A\.? (in )?Indian music)(?-i)	P_OtherSocialScience
+(?i)(M\.?A\.? (in )?Jainology)(?-i)	P_Jainism
+(?i)(M\.?A\.? (in )?Journalism and Mass Communication)(?-i)	P_Journalism&MassCommunication
+(?i)(M\.?A\.? (in )?Journalism and communication)(?-i)	P_Journalism&MassCommunication
+(?i)(M\.?A\.? (in )?Kannada)(?-i)	P_Kannada
+(?i)(M\.?A\.? (in )?Language)(?-i)	P_OrientalLearning
+(?i)(M\.?A\.? (in )?Library and Information science)(?-i)	P_Library&InformationScience
+(?i)(M\.?A\.? (in )?M \.?S\.? W)(?-i)	P_OtherSocialScience
+(?i)(M\.?A\.? (in )?MA Early Childhood Care & Education)(?-i)	P_OtherSocialScience
+(?i)(M\.?A\.? (in )?MA in Psychology (Psychosocial Clinical Studies))(?-i)	P_OtherSocialScience
+(?i)(M\.?A\.? (in )?MCJ)(?-i)	P_Journalism&MassCommunication
+(?i)(M\.?A\.? (in )?Malayalam)(?-i)	P_Malayalam
+(?i)(M\.?A\.? (in )?Music)(?-i)	P_OrientalLearning
+(?i)(M\.?A\.? (in )?Philosophy)(?-i)	P_Philosophy
+(?i)(M\.?A\.? (in )?Police Administration)(?-i)	P_DefenceStudies
+(?i)(M\.?A\.? (in )?Psychology)(?-i)	P_Psychology
+(?i)(M\.?A\.? (in )?Public Administration)(?-i)	P_PublicAdministration
+(?i)(M\.?A\.? (in )?Public Policy and Governance)(?-i)	P_OtherSocialScience
+(?i)(M\.?A\.? (in )?Russian)(?-i)	P_OtherForeignLanguages
+(?i)(M\.?A\.? (in )?Saivasiddhanta)(?-i)	P_ReligiousStudies
+(?i)(M\.?A\.? (in )?Sanskrit)(?-i)	P_Sanskrit
+(?i)(M\.?A\.? (in )?Shastra)(?-i)	P_OrientalLearning
+(?i)(M\.?A\.? (in )?Social Science)(?-i)	P_Economics
+(?i)(M\.?A\.? (in )?Sociology)(?-i)	P_OtherSocialScience
+(?i)(M\.?A\.? (in )?Spanish)(?-i)	P_Spanish
+(?i)(M\.?A\.? (in )?Tamil Literature & culture)(?-i)	P_Tamil
+(?i)(M\.?A\.? (in )?Tamil language)(?-i)	P_Tamil
+(?i)(M\.?A\.? (in )?Tamil)(?-i)	P_Tamil
+(?i)(M\.?A\.? (in )?Teaching English as Second LanguageL)(?-i)	P_English
+(?i)(M\.?A\.? (in )?Telugu)(?-i)	P_Telugu
+(?i)(M\.?A\.? (in )?Vedanta)(?-i)	P_OrientalLearning
+(?i)(M\.?A\.? (in )?Womens Studies)(?-i)	P_WomenStudies
+(?i)(M\.?A\.? (in )?Yoga for Human Excellence)(?-i)	P_OtherSocialScience
+(?i)(M\.?A\.? (in )?applied sanskrit)(?-i)	P_ReligiousStudies
+(?i)(M\.?A\.? (in )?art)(?-i)	P_Sanskrit
+(?i)(M\.?A\.? (in )?centre for south and south east asian studies)(?-i)	P_OtherSocialScience
+(?i)(M\.?A\.? (in )?defence and strategic studies)(?-i)	P_DefenceStudies
+(?i)(M\.?A\.? (in )?divyaprabandam)(?-i)	P_ReligiousStudies
+(?i)(M\.?A\.? (in )?legal studies)(?-i)	P_OtherSocialScience
+(?i)(M\.?A\.? (in )?politics and public administration)(?-i)	P_PoliticalScience
+(?i)(M\.?A\.? (in )?vaishnavism)(?-i)	P_ReligiousStudies
+(?i)(M\.?A\.?)(?-i)	P_OtherSocialScience
+(?i)(M\.?B\.?A\.? (in )?Agriculture)(?-i)	P_BusinessAdministration
+(?i)(M\.?B\.?A\.? (in )?Airline and Airport Management)(?-i)	P_BusinessAdministration
+(?i)(M\.?B\.?A\.? (in )?BUSINESS ADMINISTRATION)(?-i)	P_BusinessAdministration
+(?i)(M\.?B\.?A\.? (in )?Banking and Finance Management)(?-i)	P_BusinessAdministration
+(?i)(M\.?B\.?A\.? (in )?Business Management)(?-i)	P_BusinessAdministration
+(?i)(M\.?B\.?A\.? (in )?Entrepreneurship)(?-i)	P_BusinessAdministration
+(?i)(M\.?B\.?A\.? (in )?Executive MBA)(?-i)	P_BusinessAdministration
+(?i)(M\.?B\.?A\.? (in )?Export Management)(?-i)	P_BusinessAdministration
+(?i)(M\.?B\.?A\.? (in )?Financial Management)(?-i)	P_BusinessAdministration
+(?i)(M\.?B\.?A\.? (in )?Financial Services)(?-i)	P_BusinessAdministration
+(?i)(M\.?B\.?A\.? (in )?Five Year Integrated Programme)(?-i)	P_BusinessAdministration
+(?i)(M\.?B\.?A\.? (in )?General)(?-i)	P_BusinessAdministration
+(?i)(M\.?B\.?A\.? (in )?Hospital Management)(?-i)	P_BusinessAdministration
+(?i)(M\.?B\.?A\.? (in )?Human Resource Management)(?-i)	P_BusinessAdministration
+(?i)(M\.?B\.?A\.? (in )?Information System Management)(?-i)	P_BusinessAdministration
+(?i)(M\.?B\.?A\.? (in )?International Business)(?-i)	P_BusinessAdministration
+(?i)(M\.?B\.?A\.? (in )?Investment Management)(?-i)	P_BusinessAdministration
+(?i)(M\.?B\.?A\.? (in )?Logistics and Supply Chain Management)(?-i)	P_BusinessAdministration
+(?i)(M\.?B\.?A\.? (in )?Management Studies)(?-i)	P_BusinessAdministration
+(?i)(M\.?B\.?A\.? (in )?Management studies)(?-i)	P_BusinessAdministration
+(?i)(M\.?B\.?A\.? (in )?Marketing Management)(?-i)	P_BusinessAdministration
+(?i)(M\.?B\.?A\.? (in )?Project Management)(?-i)	P_BusinessAdministration
+(?i)(M\.?B\.?A\.? (in )?Retail Management)(?-i)	P_BusinessAdministration
+(?i)(M\.?B\.?A\.? (in )?School of Management)(?-i)	P_BusinessAdministration
+(?i)(M\.?B\.?A\.? (in )?Services Management)(?-i)	P_BusinessAdministration
+(?i)(M\.?B\.?A\.? (in )?Technology Management)(?-i)	P_BusinessAdministration
+(?i)(M\.?B\.?A\.? (in )?Tourism and Hotel Management)(?-i)	P_BusinessAdministration
+(?i)(M\.?B\.?A\.?)(?-i)	P_BusinessAdministration
+(?i)(M\.?B\.?B\.?S\.?)(?-i)	G_GeneralMedicine
+(?i)(M\.?C\.?A\.? (in )?COMPUTER APPLICATION)(?-i)	P_ComputerApplication
+(?i)(M\.?C\.?A\.? (in )?Computer Applications)(?-i)	P_ComputerApplication
+(?i)(M\.?C\.?A\.? (in )?Computer Science)(?-i)	P_ComputerApplication
+(?i)(M\.?C\.?A\.? (in )?Computer science)(?-i)	P_ComputerApplication
+(?i)(M\.?C\.?A\.? (in )?MCA)(?-i)	P_ComputerApplication
+(?i)(M\.?C\.?A\.?)(?-i)	P_ComputerApplication
+(?i)(M\.?Ch\.? (in )?CT SURGERY)(?-i)	PF_Cardiology
+(?i)(M\.?Ch\.? (in )?NEURORADIOLOGY)(?-i)	PF_Neurology
+(?i)(M\.?Ch\.? (in )?PAEDIATRIC SURGERY)(?-i)	PF_Pediatrics
+(?i)(M\.?Ch\.? (in )?PLASTIC SURGERY)(?-i)	PF_PlasticSurgery
+(?i)(M\.?Ch\.? (in )?SURGICAL GASTROENTEROLOGY)(?-i)	PF_Gastroenterology
+(?i)(M\.?Ch\.? (in )?UROLOGY)(?-i)	PF_Urology
+(?i)(M\.?Ch\.?)(?-i)	PF_Neurology
+(?i)(M\.?Com\.? (in )?Commerce)(?-i)	P_Commerce
+(?i)(M\.?Com\.? (in )?Computer Applications)(?-i)	P_Commerce
+(?i)(M\.?Com\.? (in )?M\.?F\.?C)(?-i)	P_Commerce
+(?i)(M\.?Com\.?)(?-i)	P_Commerce
+(?i)(M\.?D\.? (in )?ANAESTHESIA)(?-i)	P_Anesthesiology
+(?i)(M\.?D\.? (in )?Anaesthesia)(?-i)	P_Anesthesiology
+(?i)(M\.?D\.? (in )?BIOCHEMISTRY)(?-i)	P_Bio-chemistry
+(?i)(M\.?D\.? (in )?Bio-Chemistry)(?-i)	P_Bio-chemistry
+(?i)(M\.?D\.? (in )?COMMUNITY MEDICINE)(?-i)	P_OtherMedicalScience
+(?i)(M\.?D\.? (in )?Community Medicine)(?-i)	P_OtherMedicalScience
+(?i)(M\.?D\.? (in )?DERMATOLOGY)(?-i)	P_Dermatology
+(?i)(M\.?D\.? (in )?ENT)(?-i)	P_Ent
+(?i)(M\.?D\.? (in )?FORENSIC MEDICINE)(?-i)	P_ForensicMedicine/Toxicology
+(?i)(M\.?D\.? (in )?Gastroenterology)(?-i)	P_Gastroenterology
+(?i)(M\.?D\.? (in )?MEDICINE)(?-i)	P_GeneralMedicine
+(?i)(M\.?D\.? (in )?MICROBIOLOGY)(?-i)	P_Microbiology
+(?i)(M\.?D\.? (in )?Microbiology)(?-i)	P_Microbiology
+(?i)(M\.?D\.? (in )?NUCLEAR MEDICINE)(?-i)	P_NuclearMedicine
+(?i)(M\.?D\.? (in )?OBST\.? & GYNAE\.?)(?-i)	P_Gynaecology
+(?i)(M\.?D\.? (in )?OPHTHALMOLOGY)(?-i)	P_Ophthalmology
+(?i)(M\.?D\.? (in )?ORTHOPAEDICS)(?-i)	P_Orthopaedics
+(?i)(M\.?D\.? (in )?PATHOLOGY)(?-i)	P_Pathology
+(?i)(M\.?D\.? (in )?PEDIATRICS)(?-i)	P_Pediatrics
+(?i)(M\.?D\.? (in )?PHARMACOLOGY)(?-i)	P_Pharmacy
+(?i)(M\.?D\.? (in )?PSYCHIATRY)(?-i)	P_Psychiatry
+(?i)(M\.?D\.? (in )?Pharmacology)(?-i)	P_OtherMedicalScience
+(?i)(M\.?D\.? (in )?RADIODIAGNOSIS)(?-i)	P_Radiology
+(?i)(M\.?D\.? (in )?RADIOTHERAPY)(?-i)	P_Radiothrapy
+(?i)(M\.?D\.? (in )?SURGERY)(?-i)	P_GeneralSurgery
+(?i)(M\.?D\.? (in )?TRANSFUSION MEDICINE)(?-i)	P_OtherMedicalScience
+(?i)(M\.?D\.? (in )?Urology)(?-i)	P_Urology
+(?i)(M\.?D\.?)(?-i)	P_Ayurveda
+(?i)(M\.?D\.?S\.?)(?-i)	P_Dentistry
+(?i)(M\.?Ed\.?)(?-i)	P_Education
+(?i)(M\.?F\.?A\.? (in )?Fine Art Music)(?-i)	P_PerformingArts
+(?i)(M\.?F\.?A\.? (in )?Fine Arts)(?-i)	P_FineArts
+(?i)(M\.?F\.?A\.?)(?-i)	P_FineArts
+(?i)(M\.?F\.?Sc\.?)(?-i)	P_FisheriesScience
+(?i)(M\.?H\.?A\.?)(?-i)	P_HospitalAdministration
+(?i)(M\.?J\.? (in )?Journalism & Mass Communication)(?-i)	P_Journalism&MassCommunication
+(?i)(M\.?J\.? (in )?art)(?-i)	P_Journalism&MassCommunication
+(?i)(M\.?J\.?)(?-i)	P_Journalism&MassCommunication
+(?i)(M\.?L\.?I\.?Sc\.? (in )?M\.? Lib\.? I\.? Sc\.?)(?-i)	P_Library&InformationScience
+(?i)(M\.?L\.?I\.?Sc\.?)(?-i)	P_Library&InformationScience
+(?i)(M\.?Lib\.?Sc\.?)(?-i)	P_Library&InformationScience
+(?i)(M\.?Mus\.?)(?-i)	P_Music
+(?i)(M\.?P\.?A\.? (in )?Dance-MPA)(?-i)	P_PerformingArts
+(?i)(M\.?P\.?A\.? (in )?Taalvadya-MPA)(?-i)	P_PerformingArts
+(?i)(M\.?P\.?A\.? (in )?lassical Vocal-MPA)(?-i)	P_PerformingArts
+(?i)(M\.?P\.?A\.?)(?-i)	P_PerformingArts
+(?i)(M\.?P\.?H\.?)(?-i)	P_PublicHealth
+(?i)(M\.?Pharm\.? (in )?U D P S)(?-i)	P_Pharmacy
+(?i)(M\.?Pharm\.?)(?-i)	P_Pharmacy
+(?i)(M\.?Phil\.? (in )?Arabic (L&L))(?-i)	P_OtherForeignLanguages
+(?i)(M\.?Phil\.? (in )?Arabic Literature)(?-i)	P_OtherForeignLanguages
+(?i)(M\.?Phil\.? (in )?Computational Linguistics)(?-i)	P_OtherEngineering&Technology
+(?i)(M\.?Phil\.? (in )?Economics)(?-i)	P_Economics
+(?i)(M\.?Phil\.? (in )?English Language Education)(?-i)	P_English
+(?i)(M\.?Phil\.? (in )?English)(?-i)	P_Linguistics
+(?i)(M\.?Phil\.? (in )?Francophone Studies)(?-i)	P_French
+(?i)(M\.?Phil\.? (in )?French Studies)(?-i)	P_OtherForeignLanguages
+(?i)(M\.?Phil\.? (in )?History)(?-i)	P_OtherSocialScience
+(?i)(M\.?Phil\.? (in )?Linguistics & Phonetics)(?-i)	P_Linguistics
+(?i)(M\.?Phil\.? (in )?Literature)(?-i)	P_English
+(?i)(M\.?Phil\.? (in )?Mathematics)(?-i)	P_Mathematics
+(?i)(M\.?Phil\.? (in )?Russian Language)(?-i)	P_OtherForeignLanguages
+(?i)(M\.?Phil\.? (in )?SANSKRIT)(?-i)	P_OrientalLearning
+(?i)(M\.?Phil\.? (in )?Sanskrit)(?-i)	P_OrientalLearning
+(?i)(M\.?Phil\.? (in )?Social sciences)(?-i)	P_OtherSocialScience
+(?i)(M\.?Phil\.?)(?-i)	P_OtherForeignLanguages
+(?i)(M\.?S\.? (in )?Bioinformatics)(?-i)	P_OtherEngineering&Technology
+(?i)(M\.?S\.? (in )?CSE)(?-i)	P_ComputerEngineering
+(?i)(M\.?S\.? (in )?Civil Engineering)(?-i)	P_CivilEngineering
+(?i)(M\.?S\.? (in )?Computational Linguistics)(?-i)	P_OtherEngineering&Technology
+(?i)(M\.?S\.? (in )?Science)(?-i)	P_Mathematics
+(?i)(M\.?S\.?)(?-i)	P_ElectronicsEngineering
+(?i)(M\.?S\.?W\.? (in )?Art)(?-i)	P_SocialWork
+(?i)(M\.?S\.?W\.? (in )?Social Work Social Work)(?-i)	P_SocialWork
+(?i)(M\.?S\.?W\.? (in )?Social Work)(?-i)	P_SocialWork
+(?i)(M\.?S\.?W\.?)(?-i)	P_SocialWork
+(?i)(M\.?Sc\.? (in )?ANATOMY)(?-i)	P_Physiology
+(?i)(M\.?Sc\.? (in )?Agriculture)(?-i)	P_Agriculture
+(?i)(M\.?Sc\.? (in )?Agro-Economic Research centre)(?-i)	P_OtherScience
+(?i)(M\.?Sc\.? (in )?Analytical chemistry)(?-i)	P_Chemistry
+(?i)(M\.?Sc\.? (in )?Anatomy)(?-i)	P_OtherScience
+(?i)(M\.?Sc\.? (in )?Applied Geology)(?-i)	P_Geology
+(?i)(M\.?Sc\.? (in )?Applied Psychology)(?-i)	P_Psychology
+(?i)(M\.?Sc\.? (in )?BIOCHEMISTRY)(?-i)	P_Bio-chemistry
+(?i)(M\.?Sc\.? (in )?Bio-Informatics)(?-i)	P_Bio-technology
+(?i)(M\.?Sc\.? (in )?Bio-chemistry)(?-i)	P_Chemistry
+(?i)(M\.?Sc\.? (in )?Bio-tehnology)(?-i)	P_Bio-technology
+(?i)(M\.?Sc\.? (in )?Biotechnology)(?-i)	P_Bio-technology
+(?i)(M\.?Sc\.? (in )?Botany)(?-i)	P_Botany
+(?i)(M\.?Sc\.? (in )?CAS in crystallography and Biophysics)(?-i)	P_OtherScience
+(?i)(M\.?Sc\.? (in )?COMPUTER SCIENCE)(?-i)	P_ComputerScience
+(?i)(M\.?Sc\.? (in )?CYTOPATHOLOGY)(?-i)	P_Pathology
+(?i)(M\.?Sc\.? (in )?Central Instrumentation)(?-i)	P_OtherScience
+(?i)(M\.?Sc\.? (in )?Centre for Advanced Studies in Botany)(?-i)	P_Botany
+(?i)(M\.?Sc\.? (in )?Chemistry)(?-i)	P_Chemistry
+(?i)(M\.?Sc\.? (in )?Computer Science)(?-i)	P_ComputerScience
+(?i)(M\.?Sc\.? (in )?Costume Design and Fashion Technology)(?-i)	P_FashionTechnology
+(?i)(M\.?Sc\.? (in )?Economics)(?-i)	P_Economics
+(?i)(M\.?Sc\.? (in )?Endocrinology)(?-i)	P_OtherScience
+(?i)(M\.?Sc\.? (in )?Energy)(?-i)	P_OtherScience
+(?i)(M\.?Sc\.? (in )?Engineering)(?-i)	P_Electronics
+(?i)(M\.?Sc\.? (in )?Environmental Science)(?-i)	P_EnvironmentalScience
+(?i)(M\.?Sc\.? (in )?Genetics)(?-i)	P_OtherScience
+(?i)(M\.?Sc\.? (in )?Geography)(?-i)	P_OtherScience
+(?i)(M\.?Sc\.? (in )?Geology)(?-i)	P_Genetics
+(?i)(M\.?Sc\.? (in )?Geophysics)(?-i)	P_Geo-physics
+(?i)(M\.?Sc\.? (in )?Hematology and Blood Transfusion)(?-i)	P_OtherMedicalScience
+(?i)(M\.?Sc\.? (in )?Horticulture)(?-i)	P_Horticulture
+(?i)(M\.?Sc\.? (in )?InformationTechnology)(?-i)	P_InformationTechnology
+(?i)(M\.?Sc\.? (in )?Inorganic chemistry)(?-i)	P_Chemistry
+(?i)(M\.?Sc\.? (in )?Life Science)(?-i)	P_LifeScience
+(?i)(M\.?Sc\.? (in )?MEDICAL BIOTECHNOLOGY)(?-i)	P_Bio-technology
+(?i)(M\.?Sc\.? (in )?MED\.? TECH\.? BIOCHEMISTRY)(?-i)	P_Bio-chemistry
+(?i)(M\.?Sc\.? (in )?MED\.? TECH\.? HAEMATOLOGY)(?-i)	P_Haematology
+(?i)(M\.?Sc\.? (in )?MED\.? TECH\.? RADIODIAGNOSIS)(?-i)	P_Radiology
+(?i)(M\.?Sc\.? (in )?MED\.? TECH\.? VIROLOGY)(?-i)	P_OtherMedicalScience
+(?i)(M\.?Sc\.? (in )?Mathematics)(?-i)	P_Mathematics
+(?i)(M\.?Sc\.? (in )?Medical Bio-chemistry)(?-i)	P_OtherScience
+(?i)(M\.?Sc\.? (in )?Microbiology)(?-i)	P_OtherScience
+(?i)(M\.?Sc\.? (in )?National centre for Nano-science and Nano-technology)(?-i)	P_OtherScience
+(?i)(M\.?Sc\.? (in )?National centre for ultrafast processes)(?-i)	P_OtherScience
+(?i)(M\.?Sc\.? (in )?Neuroscience)(?-i)	P_OtherScience
+(?i)(M\.?Sc\.? (in )?Nuclear Physics)(?-i)	P_Physics
+(?i)(M\.?Sc\.? (in )?Ocean & Atmospheric)(?-i)	P_OtherScience
+(?i)(M\.?Sc\.? (in )?Organic chemistry)(?-i)	P_Chemistry
+(?i)(M\.?Sc\.? (in )?Pathology)(?-i)	P_OtherScience
+(?i)(M\.?Sc\.? (in )?Pharmacology and Environmental Toxicology)(?-i)	P_OtherScience
+(?i)(M\.?Sc\.? (in )?Physical Education and sports)(?-i)	P_OtherScience
+(?i)(M\.?Sc\.? (in )?Physical chemistry)(?-i)	P_Chemistry
+(?i)(M\.?Sc\.? (in )?Physics)(?-i)	P_Physics
+(?i)(M\.?Sc\.? (in )?Physiology)(?-i)	P_OtherScience
+(?i)(M\.?Sc\.? (in )?Polymer science)(?-i)	P_OtherScience
+(?i)(M\.?Sc\.? (in )?RIAS in mathematics)(?-i)	P_Mathematics
+(?i)(M\.?Sc\.? (in )?Science)(?-i)	P_OtherScience
+(?i)(M\.?Sc\.? (in )?Statistics)(?-i)	P_Statistics
+(?i)(M\.?Sc\.? (in )?Theoretical Physics)(?-i)	P_Physics
+(?i)(M\.?Sc\.? (in )?Zoology)(?-i)	P_Zoology
+(?i)(M\.?Sc\.? (in )?cyber forensics and information security)(?-i)	P_OtherScience
+(?i)(M\.?Sc\.? (in )?yoga)(?-i)	P_OtherScience
+(?i)(M\.?Sc\.? Nursing (in )?CIVIL)(?-i)	PF_MechanicalEngineering
+(?i)(M\.?Sc\.? Nursing (in )?M\.?Sc\.? Nursing-Master of Science in Nursing)(?-i)	P_Nursing
+(?i)(M\.?Sc\.? Nursing (in )?NURSING)(?-i)	P_Nursing
+(?i)(M\.?Sc\.? Nursing)(?-i)	P_Nursing
+(?i)(M\.?Sc\.?)(?-i)	P_Animation
+(?i)(M\.?Tech\.? (in )?APS)(?-i)	P_ElectricalEngineering
+(?i)(M\.?Tech\.? (in )?Agril\.? Engg)(?-i)	P_AgricultureEngineering
+(?i)(M\.?Tech\.? (in )?Bioinformatics)(?-i)	P_OtherEngineering&Technology
+(?i)(M\.?Tech\.? (in )?CAD/CAM)(?-i)	P_MechanicalEngineering
+(?i)(M\.?Tech\.? (in )?CSE)(?-i)	P_ComputerEngineering
+(?i)(M\.?Tech\.? (in )?Computational Linguistics)(?-i)	P_OtherEngineering&Technology
+(?i)(M\.?Tech\.? (in )?Computer Aided Structural Engineering)(?-i)	P_CivilEngineering
+(?i)(M\.?Tech\.? (in )?Computer And Communications)(?-i)	P_ElectronicsEngineering
+(?i)(M\.?Tech\.? (in )?Computer Science and Information Security)(?-i)	P_ComputerEngineering
+(?i)(M\.?Tech\.? (in )?Computer Science)(?-i)	P_ComputerEngineering
+(?i)(M\.?Tech\.? (in )?Cyber Security)(?-i)	P_ElectricalEngineering
+(?i)(M\.?Tech\.? (in )?Dual Degree Chemical Engineering)(?-i)	P_ChemicalEngineering
+(?i)(M\.?Tech\.? (in )?Dual Degree Communication and Networks)(?-i)	P_ElectronicsEngineering
+(?i)(M\.?Tech\.? (in )?Dual Degree Computer Science)(?-i)	P_ComputerEngineering
+(?i)(M\.?Tech\.? (in )?Dual Degree Control and Automation)(?-i)	P_ElectricalEngineering
+(?i)(M\.?Tech\.? (in )?Dual Degree Electronic Systems and Communication)(?-i)	P_ElectricalEngineering
+(?i)(M\.?Tech\.? (in )?Dual Degree Information Security)(?-i)	P_ComputerEngineering
+(?i)(M\.?Tech\.? (in )?Dual Degree Mechatronics and Automation)(?-i)	P_MechanicalEngineering
+(?i)(M\.?Tech\.? (in )?Dual Degree Metallurgical and Materials Engineering)(?-i)	P_MechanicalEngineering
+(?i)(M\.?Tech\.? (in )?Dual Degree Power Electronics and Drive)(?-i)	P_ElectricalEngineering
+(?i)(M\.?Tech\.? (in )?Dual Degree VLSI Design and Embedded Systems)(?-i)	P_ElectronicsEngineering
+(?i)(M\.?Tech\.? (in )?Dual Degree Water Resources Engineering)(?-i)	P_CivilEngineering
+(?i)(M\.?Tech\.? (in )?Dual DegreeIndustrial Ceramic)(?-i)	P_OtherEngineering&Technology
+(?i)(M\.?Tech\.? (in )?Dual degreeTransportation Engineering)(?-i)	P_CivilEngineering
+(?i)(M\.?Tech\.? (in )?EEE)(?-i)	P_ElectricalEngineering
+(?i)(M\.?Tech\.? (in )?Electronic Science)(?-i)	P_ElectronicsEngineering
+(?i)(M\.?Tech\.? (in )?HV)(?-i)	P_ElectricalEngineering
+(?i)(M\.?Tech\.? (in )?IT)(?-i)	P_InformationTechnology
+(?i)(M\.?Tech\.? (in )?Information Technology)(?-i)	P_ComputerEngineering
+(?i)(M\.?Tech\.? (in )?Instrumentation and Control Systems)(?-i)	P_ElectronicsEngineering
+(?i)(M\.?Tech\.? (in )?MECH)(?-i)	P_MechanicalEngineering
+(?i)(M\.?Tech\.? (in )?M\.? Tech (Urban Planning))(?-i)	P_Architecture
+(?i)(M\.?Tech\.? (in )?M\.? Tech\.? (CAD-CAM))(?-i)	P_MechanicalEngineering
+(?i)(M\.?Tech\.? (in )?M\.? Tech\.? (Communication System Engineering))(?-i)	P_ElectronicsEngineering
+(?i)(M\.?Tech\.? (in )?M\.? Tech\.? (Environmental Engineering))(?-i)	P_CivilEngineering
+(?i)(M\.?Tech\.? (in )?M\.? Tech\.? (Excavation Engineering))(?-i)	P_MiningEngineering
+(?i)(M\.?Tech\.? (in )?M\.? Tech\.? (Heat Power Engineering))(?-i)	P_MechanicalEngineering
+(?i)(M\.?Tech\.? (in )?M\.? Tech\.? (Industrial Engineering))(?-i)	P_MechanicalEngineering
+(?i)(M\.?Tech\.? (in )?M\.? Tech\.? (Integrated Power Systems))(?-i)	P_ElectricalEngineering
+(?i)(M\.?Tech\.? (in )?M\.? Tech\.? (Materials Engineering))(?-i)	P_MetallurgicalEngineering
+(?i)(M\.?Tech\.? (in )?M\.? Tech\.? (Power Electronics and Drives))(?-i)	P_ElectricalEngineering
+(?i)(M\.?Tech\.? (in )?M\.? Tech\.? (Structural Dynamics & Earthquake Engineering))(?-i)	P_OtherEngineering&Technology
+(?i)(M\.?Tech\.? (in )?M\.? Tech\.? (Structural Engineering))(?-i)	P_OtherEngineering&Technology
+(?i)(M\.?Tech\.? (in )?M\.? Tech\.? (Transportation Engineering))(?-i)	P_CivilEngineering
+(?i)(M\.?Tech\.? (in )?M\.? Tech\.? (VLSI Design))(?-i)	P_ElectronicsEngineering
+(?i)(M\.?Tech\.? (in )?M\.? Tech\.?(Computer Science Engineering))(?-i)	P_ComputerEngineering
+(?i)(M\.?Tech\.? (in )?M\.? Tech\.?(Water Resources Engineering))(?-i)	P_CivilEngineering
+(?i)(M\.?Tech\.? (in )?M\.?Tech\.? (Construction Technology & Management))(?-i)	P_CivilEngineering
+(?i)(M\.?Tech\.? (in )?Machine Design)(?-i)	P_MechanicalEngineering
+(?i)(M\.?Tech\.? (in )?PEPS)(?-i)	P_ElectricalEngineering
+(?i)(M\.?Tech\.? (in )?Soil Mechanics)(?-i)	P_CivilEngineering
+(?i)(M\.?Tech\.? (in )?Structural Engineering)(?-i)	P_CivilEngineering
+(?i)(M\.?Tech\.? (in )?VLSI & Computer Engineering)(?-i)	P_OtherEngineering&Technology
+(?i)(M\.?Tech\.? (in )?VLSI)(?-i)	P_ElectronicsEngineering
+(?i)(M\.?Tech\.?)(?-i)	P_MiningEngineering
+(?i)(M\.?V\.?Sc\.?)(?-i)	P_Veterinary&AnimalSciences
+(?i)(Master of Arts)(?-i)	P_OtherSocialScience
+(?i)(Master of Business Administration)(?-i)	P_BusinessAdministration
+(?i)(Master of Chirurgiae)(?-i)	PF_Neurology
+(?i)(Master of Commerce)(?-i)	P_Commerce
+(?i)(Master of Computer Applications)(?-i)	P_ComputerApplication
+(?i)(Master of Dental Surgery)(?-i)	P_Dentistry
+(?i)(Master of Education)(?-i)	P_Education
+(?i)(Master of Fine Arts)(?-i)	P_FineArts
+(?i)(Master of Fishery Science)(?-i)	P_FisheriesScience
+(?i)(Master of Hospital Administration)(?-i)	P_HospitalAdministration
+(?i)(Master of Journalism)(?-i)	P_Journalism&MassCommunication
+(?i)(Master of Law or Laws)(?-i)	P_Law
+(?i)(Master of Library & Information Science)(?-i)	P_Library&InformationScience
+(?i)(Master of Library Science)(?-i)	P_Library&InformationScience
+(?i)(Master of Music)(?-i)	P_Music
+(?i)(Master of Performing Arts)(?-i)	P_PerformingArts
+(?i)(Master of Pharmacy)(?-i)	P_Pharmacy
+(?i)(Master of Philosophy)(?-i)	P_OtherForeignLanguages
+(?i)(Master of Public Health)(?-i)	P_PublicHealth
+(?i)(Master of Science in Nursing)(?-i)	P_Nursing
+(?i)(Master of Science)(?-i)	P_Animation
+(?i)(Master of Social Work)(?-i)	P_SocialWork
+(?i)(Master of Technology)(?-i)	P_MiningEngineering
+(?i)(Master of Veterinary Sciences)(?-i)	P_Veterinary&AnimalSciences
+(?i)(PG Diploma (in )?AVIONICS)(?-i)	C_Education
+(?i)(PG Diploma (in )?BMXRT)(?-i)	PF_Radiology
+(?i)(PG Diploma (in )?B\.? Sc\.? Nursing)(?-i)	PF_Nursing
+(?i)(PG Diploma (in )?Bio-Informatics)(?-i)	PF_Bio-technology
+(?i)(PG Diploma (in )?BusinessAdmini)(?-i)	PF_BusinessAdministration
+(?i)(PG Diploma (in )?COMPUTER APPLICTAION)(?-i)	PF_ComputerApplication
+(?i)(PG Diploma (in )?COMPUTER ENGINEERING)(?-i)	PF_CivilEngineering
+(?i)(PG Diploma (in )?CYBER CRIME)(?-i)	PF_CyberCrime
+(?i)(PG Diploma (in )?Communicative English)(?-i)	PF_English
+(?i)(PG Diploma (in )?Computer Application)(?-i)	PF_ComputerApplication
+(?i)(PG Diploma (in )?Computer Applications)(?-i)	PF_ComputerApplication
+(?i)(PG Diploma (in )?Criminology & Police Administration)(?-i)	PF_Criminology&ForensicScience
+(?i)(PG Diploma (in )?DIFAT)(?-i)	PF_OtherEngineering&Technology
+(?i)(PG Diploma (in )?DOT)(?-i)	PF_Ophthalmology
+(?i)(PG Diploma (in )?English)(?-i)	PF_English
+(?i)(PG Diploma (in )?Environment & human health)(?-i)	PF_IndianMedicine
+(?i)(PG Diploma (in )?Environmental Management)(?-i)	PF_EnvironmentalScience
+(?i)(PG Diploma (in )?Fire and Safety Management)(?-i)	PF_BusinessManagement
+(?i)(PG Diploma (in )?Gnomic technology)(?-i)	PF_OtherMedicalScience
+(?i)(PG Diploma (in )?Industrial Security)(?-i)	PF_OtherSocialScience
+(?i)(PG Diploma (in )?International Business)(?-i)	PF_BusinessManagement
+(?i)(PG Diploma (in )?Liberal Studies)(?-i)	PF_OtherSocialScience
+(?i)(PG Diploma (in )?Library & Information Science)(?-i)	PF_Library&InformationScience
+(?i)(PG Diploma (in )?Logistics and Supply Chain Management)(?-i)	PF_BusinessManagement
+(?i)(PG Diploma (in )?MASS COMMUNICATION)(?-i)	PF_Journalism&MassCommunication
+(?i)(PG Diploma (in )?Management)(?-i)	PF_BusinessManagement
+(?i)(PG Diploma (in )?Marketing, HR, Finance, IB)(?-i)	PF_BusinessManagement
+(?i)(PG Diploma (in )?Materials Science)(?-i)	PF_Chemistry
+(?i)(PG Diploma (in )?Nursing)(?-i)	PF_Education
+(?i)(PG Diploma (in )?PG Diploma in Early Childhood Care and Education)(?-i)	PF_OtherSocialScience
+(?i)(PG Diploma (in )?PGCTE (Eng))(?-i)	PF_English
+(?i)(PG Diploma (in )?PGDM -Business Entrepreneurship)(?-i)	PF_BusinessManagement
+(?i)(PG Diploma (in )?PGDTA (Arabic))(?-i)	PF_OtherForeignLanguages
+(?i)(PG Diploma (in )?PGDTE (Eng))(?-i)	PF_English
+(?i)(PG Diploma (in )?P\.?G\.? DIPLOMA IN EARLY CHILDHOOD EDUCATION)(?-i)	PF_HomeScience
+(?i)(PG Diploma (in )?P\.?G\.? DIPLOMA IN HUMAN RESOURCE MANAGEMENT (PGDHRM))(?-i)	PF_HumanResourceManagement
+(?i)(PG Diploma (in )?Personnel Management)(?-i)	PF_OtherManagement
+(?i)(PG Diploma (in )?Police Science)(?-i)	PF_Criminology&ForensicScience
+(?i)(PG Diploma (in )?Post Graduate Diploma in Air and Space Law)(?-i)	PF_Law
+(?i)(PG Diploma (in )?Post Graduate Diploma in Human Rights)(?-i)	PF_Law
+(?i)(PG Diploma (in )?Post Graduate Diploma in Nuclear Law)(?-i)	PF_Law
+(?i)(PG Diploma (in )?Post Graduate in Business Law)(?-i)	PF_Law
+(?i)(PG Diploma (in )?Psychological Counseling)(?-i)	PF_Psychology
+(?i)(PG Diploma (in )?Regular)(?-i)	PF_LifeScience
+(?i)(PG Diploma (in )?Retail Management)(?-i)	PF_MarketingManagement
+(?i)(PG Diploma (in )?Rural Management)(?-i)	PF_OtherManagement
+(?i)(PG Diploma (in )?Russian Intensive Advance Diploma)(?-i)	PF_OtherForeignLanguages
+(?i)(PG Diploma (in )?SCIENCE)(?-i)	PF_Horticulture
+(?i)(PG Diploma (in )?Science Education)(?-i)	PF_OtherScience
+(?i)(PG Diploma (in )?Science)(?-i)	PF_ComputerApplication
+(?i)(PG Diploma (in )?Stress Management & wellbeing)(?-i)	PF_OtherManagement
+(?i)(PG Diploma (in )?Yog Science)(?-i)	PF_Yoga
+(?i)(PG Diploma (in )?Yoga & Meditation)(?-i)	PF_Yoga
+(?i)(PG Diploma (in )?Yoga & Natural Pathy)(?-i)	PF_Yoga
+(?i)(PG Diploma (in )?Yoga & Psychotherapy)(?-i)	PF_Yoga
+(?i)(PG Diploma (in )?Yoga Education)(?-i)	PF_Yoga
+(?i)(PG Diploma (in )?Yoga practices)(?-i)	PF_OtherMedicalScience
+(?i)(PG Diploma (in )?art)(?-i)	PF_OtherSocialScience
+(?i)(PG Diploma (in )?other)(?-i)	PF_Education
+(?i)(PG Diploma (in )?science)(?-i)	PF_OtherScience
+(?i)(PG Diploma)(?-i)	PF_OtherManagement
+(?i)(P\.?G\.?P\.? (in )?General Management)(?-i)	P_BusinessManagement
+(?i)(P\.?G\.?P\.? (in )?PGDM -Business Entrepreneurship)(?-i)	PF_BusinessManagement
+(?i)(P\.?G\.?P\.?)(?-i)	P_BusinessManagement
+(?i)(Ph\.?D in Ayurveda)(?-i)	PF_Ayurveda
+(?i)(Ph\.?D\.? (in )?Agriculture)(?-i)	PF_Agriculture
+(?i)(Ph\.?D\.? (in )?Agril\.? Engg)(?-i)	PF_AgricultureEngineering
+(?i)(Ph\.?D\.? (in )?All Subject)(?-i)	PF_OtherEngineering&Technology
+(?i)(Ph\.?D\.? (in )?Anasthesiology)(?-i)	PF_Anesthesiology
+(?i)(Ph\.?D\.? (in )?Anatomy)(?-i)	PF_OtherMedicalScience
+(?i)(Ph\.?D\.? (in )?Arabic L&L)(?-i)	PF_OtherForeignLanguages
+(?i)(Ph\.?D\.? (in )?Arabic Lit)(?-i)	PF_OtherForeignLanguages
+(?i)(Ph\.?D\.? (in )?Architecture)(?-i)	PF_Architecture
+(?i)(Ph\.?D\.? (in )?Arts and Education)(?-i)	PF_AreaStudies
+(?i)(Ph\.?D\.? (in )?Ayurveda)(?-i)	PF_Ayurveda
+(?i)(Ph\.?D\.? (in )?Bio Engineering Interdisciplinary)(?-i)	PF_Bio-technology
+(?i)(Ph\.?D\.? (in )?Bio Technology)(?-i)	PF_ChemicalEngineering
+(?i)(Ph\.?D\.? (in )?BioChemistry)(?-i)	PF_Bio-chemistry
+(?i)(Ph\.?D\.? (in )?Bioinformatics)(?-i)	PF_OtherEngineering&Technology
+(?i)(Ph\.?D\.? (in )?CHEMISTRY)(?-i)	PF_OtherEngineering&Technology
+(?i)(Ph\.?D\.? (in )?CIVIL)(?-i)	PF_CivilEngineering
+(?i)(Ph\.?D\.? (in )?COMPUTER SCIENCE)(?-i)	PF_ComputerEngineering
+(?i)(Ph\.?D\.? (in )?CSE)(?-i)	PF_ComputerEngineering
+(?i)(Ph\.?D\.? (in )?CWL)(?-i)	PF_Linguistics
+(?i)(Ph\.?D\.? (in )?Career Counselling)(?-i)	PF_Philosophy
+(?i)(Ph\.?D\.? (in )?Chemical Biology)(?-i)	PF_OtherScience
+(?i)(Ph\.?D\.? (in )?Chemical Engineering)(?-i)	PF_ChemicalEngineering
+(?i)(Ph\.?D\.? (in )?Chemistry)(?-i)	PF_Chemistry
+(?i)(Ph\.?D\.? (in )?Civil Engineering)(?-i)	PF_CivilEngineering
+(?i)(Ph\.?D\.? (in )?Cognitive Science)(?-i)	PF_OtherEngineering&Technology
+(?i)(Ph\.?D\.? (in )?Computational Linguistics)(?-i)	PF_OtherEngineering&Technology
+(?i)(Ph\.?D\.? (in )?Computational Natural Sciences)(?-i)	PF_OtherEngineering&Technology
+(?i)(Ph\.?D\.? (in )?Computer Science and)(?-i)	PF_ComputerEngineering
+(?i)(Ph\.?D\.? (in )?Computer Studies)(?-i)	PF_InformationTechnology
+(?i)(Ph\.?D\.? (in )?Cultural Studies)(?-i)	PF_AreaStudies
+(?i)(Ph\.?D\.? (in )?Dance-Ph\.?D\.?)(?-i)	PF_PerformingArts
+(?i)(Ph\.?D\.? (in )?Dentistry)(?-i)	PF_Dentistry
+(?i)(Ph\.?D\.? (in )?ECE)(?-i)	PF_ElectronicsEngineering
+(?i)(Ph\.?D\.? (in )?EEE)(?-i)	PF_ElectricalEngineering
+(?i)(Ph\.?D\.? (in )?ELECTRICAL)(?-i)	PF_ElectricalEngineering
+(?i)(Ph\.?D\.? (in )?ELECTRONIC)(?-i)	PF_ElectronicsEngineering
+(?i)(Ph\.?D\.? (in )?ENGLISH)(?-i)	PF_Education
+(?i)(Ph\.?D\.? (in )?ENVIROMENT SCIENCE)(?-i)	PF_EnvironmentalScience
+(?i)(Ph\.?D\.? (in )?Economics)(?-i)	PF_Economics
+(?i)(Ph\.?D\.? (in )?Electrical & Electronics Engineering)(?-i)	PF_ElectricalEngineering
+(?i)(Ph\.?D\.? (in )?Electronics and communication Engineering)(?-i)	PF_ElectronicsEngineering
+(?i)(Ph\.?D\.? (in )?Energy)(?-i)	PF_OtherEngineering&Technology
+(?i)(Ph\.?D\.? (in )?Engineering & Technology)(?-i)	PF_OtherEngineering&Technology
+(?i)(Ph\.?D\.? (in )?Engineering)(?-i)	PF_ChemicalEngineering
+(?i)(Ph\.?D\.? (in )?English Language Education)(?-i)	PF_English
+(?i)(Ph\.?D\.? (in )?English)(?-i)	PF_Linguistics
+(?i)(Ph\.?D\.? (in )?Enineering)(?-i)	PF_ComputerEngineering
+(?i)(Ph\.?D\.? (in )?Exact Humanities)(?-i)	PF_OtherEngineering&Technology
+(?i)(Ph\.?D\.? (in )?Film Studies & Visual Medias)(?-i)	PF_Journalism&MassCommunication
+(?i)(Ph\.?D\.? (in )?Fisheries)(?-i)	PF_FisheriesScience
+(?i)(Ph\.?D\.? (in )?Food Technology)(?-i)	PF_ChemicalEngineering
+(?i)(Ph\.?D\.? (in )?Francophone Studies)(?-i)	PF_French
+(?i)(Ph\.?D\.? (in )?French Studies)(?-i)	PF_French
+(?i)(Ph\.?D\.? (in )?Gender Studies)(?-i)	PF_WomenStudies
+(?i)(Ph\.?D\.? (in )?General)(?-i)	PF_Education
+(?i)(Ph\.?D\.? (in )?HS)(?-i)	PF_OtherEngineering&Technology
+(?i)(Ph\.?D\.? (in )?Health & Biomedical Sciences)(?-i)	PF_OtherScience
+(?i)(Ph\.?D\.? (in )?Health promotion education)(?-i)	PF_Education
+(?i)(Ph\.?D\.? (in )?Hindi)(?-i)	PF_Hindi
+(?i)(Ph\.?D\.? (in )?History)(?-i)	PF_OtherSocialScience
+(?i)(Ph\.?D\.? (in )?Humanities & Social Sciences)(?-i)	PF_OtherSocialScience
+(?i)(Ph\.?D\.? (in )?IT in Building Science)(?-i)	PF_CivilEngineering
+(?i)(Ph\.?D\.? (in )?IT in Power Systems)(?-i)	PF_OtherEngineering&Technology
+(?i)(Ph\.?D\.? (in )?Inter Disciplinary Research)(?-i)	PF_OtherMedicalScience
+(?i)(Ph\.?D\.? (in )?Inter Disciplinary)(?-i)	PF_OtherMedicalScience
+(?i)(Ph\.?D\.? (in )?LAW)(?-i)	PF_Law
+(?i)(Ph\.?D\.? (in )?LIFE SCIENCE)(?-i)	PF_OtherEngineering&Technology
+(?i)(Ph\.?D\.? (in )?Law)(?-i)	PF_Law
+(?i)(Ph\.?D\.? (in )?Life Skills Education and Social Harmony)(?-i)	PF_Sociology
+(?i)(Ph\.?D\.? (in )?Linguistics & Phonetics)(?-i)	PF_Linguistics
+(?i)(Ph\.?D\.? (in )?Literature)(?-i)	PF_Linguistics
+(?i)(Ph\.?D\.? (in )?Local Governance)(?-i)	PF_PublicAdministration
+(?i)(Ph\.?D\.? (in )?MANAGEMENT)(?-i)	PF_OtherManagement
+(?i)(Ph\.?D\.? (in )?MATHS)(?-i)	PF_AreaStudies
+(?i)(Ph\.?D\.? (in )?MECHNICAL)(?-i)	PF_MechanicalEngineering
+(?i)(Ph\.?D\.? (in )?MISC\.?)(?-i)	PF_OtherMedicalScience
+(?i)(Ph\.?D\.? (in )?Management)(?-i)	PF_OtherManagement
+(?i)(Ph\.?D\.? (in )?Mass Communication)(?-i)	PF_Education
+(?i)(Ph\.?D\.? (in )?Mathematics Interdisciplinary)(?-i)	PF_Mathematics
+(?i)(Ph\.?D\.? (in )?Mathematics)(?-i)	PF_Mathematics
+(?i)(Ph\.?D\.? (in )?Mechanical and Engineering)(?-i)	PF_MechanicalEngineering
+(?i)(Ph\.?D\.? (in )?Media Communication & Design)(?-i)	PF_Journalism&MassCommunication
+(?i)(Ph\.?D\.? (in )?Medical Informatics)(?-i)	PF_GeneralMedicine
+(?i)(Ph\.?D\.? (in )?Medicine)(?-i)	PF_OtherMedicalScience
+(?i)(Ph\.?D\.? (in )?Microbiology)(?-i)	PF_Microbiology
+(?i)(Ph\.?D\.? (in )?Musicology)(?-i)	PF_PerformingArts
+(?i)(Ph\.?D\.? (in )?Nanoscience and Engineering)(?-i)	PF_OtherEngineering&Technology
+(?i)(Ph\.?D\.? (in )?Neuroscience)(?-i)	PF_OtherScience
+(?i)(Ph\.?D\.? (in )?PHARMACY)(?-i)	PF_Pharmacy
+(?i)(Ph\.?D\.? (in )?Pharmacology)(?-i)	PF_OtherMedicalScience
+(?i)(Ph\.?D\.? (in )?Pharmacy)(?-i)	PF_IndianMedicine
+(?i)(Ph\.?D\.? (in )?Physics)(?-i)	PF_Physics
+(?i)(Ph\.?D\.? (in )?Physiology)(?-i)	PF_Physiology
+(?i)(Ph\.?D\.? (in )?Physiotherapy)(?-i)	PF_Physiotherapy
+(?i)(Ph\.?D\.? (in )?Research)(?-i)	PF_Criminology&ForensicScience
+(?i)(Ph\.?D\.? (in )?Russian Language)(?-i)	PF_OtherForeignLanguages
+(?i)(Ph\.?D\.? (in )?Russian Literature)(?-i)	PF_French
+(?i)(Ph\.?D\.? (in )?SANSKRIT)(?-i)	PF_OrientalLearning
+(?i)(Ph\.?D\.? (in )?Science)(?-i)	PF_OtherScience
+(?i)(Ph\.?D\.? (in )?Social Sceinces)(?-i)	PF_OtherSocialScience
+(?i)(Ph\.?D\.? (in )?Spatial Informatics)(?-i)	PF_ComputerEngineering
+(?i)(Ph\.?D\.? (in )?Swarvadya-Ph\.?D\.?)(?-i)	PF_PerformingArts
+(?i)(Ph\.?D\.? (in )?Taalvadya-Ph\.?D\.?)(?-i)	PF_PerformingArts
+(?i)(Ph\.?D\.? (in )?Transdisciplinary)(?-i)	PF_OtherScience
+(?i)(Ph\.?D\.? (in )?Translation Studies)(?-i)	PF_Linguistics
+(?i)(Ph\.?D\.? (in )?Veterinary)(?-i)	PF_Veterinary&AnimalSciences
+(?i)(Ph\.?D\.? (in )?Vocal Music-Ph\.?D\.?)(?-i)	PF_PerformingArts
+(?i)(Ph\.?D\.? (in )?Youth Empowerment)(?-i)	PF_OtherSocialScience
+(?i)(Ph\.?D\.? (in )?science)(?-i)	PF_Physics
+(?i)(Ph\.?D\.?)(?-i)	PF_OtherEngineering&Technology
+(?i)(Post Graduate Diploma)(?-i)	PF_OtherManagement
+(?i)(Shastri)(?-i)	G_OrientalLearning
+(?i)(Vidya Varidhi)(?-i)	PF_OrientalLearning
+Certificate	C_Education
+Diploma	PF_CivilEngineering
+Post	P_BusinessManagement
