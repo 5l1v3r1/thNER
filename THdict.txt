@@ -4685,7 +4685,6 @@ m\. e	P_M_ENGG
 m\. s	P_M_ENGG
 master of Engineering management	P_M_ENGG
 master of Engg management	P_M_ENGG
-Master Of computer application	P_M_ENGG
 Master In computer application \(mca\)	P_M_ENGG
 Master In computer applications	P_M_ENGG
 master Of computer applications \(m\.c\.A\)	P_M_ENGG
@@ -4693,7 +4692,6 @@ Masters In Computer Science	P_M_ENGG
 M E	P_M_ENGG
 M e	P_M_ENGG
 master Of computer Applications \(m\.c\.a\)	P_M_ENGG
-master Of computer application	P_M_ENGG
 PGDME	P_M_ENGG
 Pgdme	P_M_ENGG
 PGDSM	PF_ENGG
@@ -4704,21 +4702,13 @@ master of engineering management	P_M_ENGG
 master of engg management	P_M_ENGG
 Me\.	P_M_ENGG
 Master of computer applications \(m\.C\.A\)	P_M_ENGG
-master of computer application	P_M_ENGG
 MASTER OF ENGINEERING MANAGEMENT	P_M_ENGG
 MASTER OF ENGG MANAGEMENT	P_M_ENGG
-Master of computer application	P_M_ENGG
 Master Of Engineering Management	P_M_ENGG
 Master Of Engg Management	P_M_ENGG
-master Of computer application	P_M_ENGG
-master Of computer Application	P_M_ENGG
-Master of computer application	P_M_ENGG
-MASTER OF COMPUTER APPLICATION	P_M_ENGG
 ME	P_M_ENGG
 master In computer Applications	P_M_ENGG
-master of Computer application	P_M_ENGG
 Master in computer application \(mca\)	P_M_ENGG
-MASTER of COMPUTER APPLICATION	P_M_ENGG
 MASTER Of ENGINEERING MANAGEMENT	P_M_ENGG
 MASTER Of ENGG MANAGEMENT	P_M_ENGG
 m\. tech	P_M_ENGG
@@ -4727,12 +4717,8 @@ M Tech	P_M_ENGG
 M\. Tech	P_M_ENGG
 master in Computer application	P_M_ENGG
 masters In Computer science	P_M_ENGG
-master of computer application	P_M_ENGG
-master Of Computer application	P_M_ENGG
 MASTER Of COMPUTER APPLICATIONS \(M\.C\.A\)	P_M_ENGG
-MASTER Of COMPUTER APPLICATION	P_M_ENGG
 Master of computer applications \(m\.c\.a\)	P_M_ENGG
-master Of computer Application	P_M_ENGG
 Master in Computer Application	P_M_ENGG
 ME\.	P_M_ENGG
 master of computer applications \(m\.C\.a\)	P_M_ENGG
@@ -4758,8 +4744,6 @@ master in Computer applications	P_M_ENGG
 Master of Engineering Management	P_M_ENGG
 Master of Engg Management	P_M_ENGG
 MASTER in COMPUTER APPLICATIONS	P_M_ENGG
-Master Of Computer Application	P_M_ENGG
-master of computer Application	P_M_ENGG
 master In computer applications	P_M_ENGG
 masters In computer Science	P_M_ENGG
 Masters in computer science	P_M_ENGG
@@ -4771,16 +4755,11 @@ MASTER of ENGINEERING MANAGEMENT	P_M_ENGG
 MASTER of ENGG MANAGEMENT	P_M_ENGG
 master in computer application \(mca\)	P_M_ENGG
 Master Of computer applications \(m\.c\.a\)	P_M_ENGG
-master Of Computer application	P_M_ENGG
-Master of Computer Application	P_M_ENGG
-MASTER Of COMPUTER APPLICATION	P_M_ENGG
 master In Computer applications	P_M_ENGG
-Master Of Computer Application	P_M_ENGG
 master In computer Application	P_M_ENGG
 M\. tech\.	P_M_ENGG
 masters in computer Science	P_M_ENGG
 MASTERS IN COMPUTER SCIENCE	P_M_ENGG
-MASTER OF COMPUTER APPLICATION	P_M_ENGG
 master Of computer applications \(m\.C\.a\)	P_M_ENGG
 Master In Computer Application \(mca\)	P_M_ENGG
 m\. Tech	P_M_ENGG
@@ -4788,15 +4767,12 @@ M\. E\.	P_M_ENGG
 M TECH	P_M_ENGG
 master in computer applications	P_M_ENGG
 master in computer Application	P_M_ENGG
-master of Computer application	P_M_ENGG
 masters in Computer science	P_M_ENGG
 M\. tech	P_M_ENGG
 M\.E\.	P_M_ENGG
 master Of Engineering management	P_M_ENGG
 master Of Engg management	P_M_ENGG
 m Tech	P_M_ENGG
-master of computer Application	P_M_ENGG
-Master of Computer Application	P_M_ENGG
 Master of Computer Applications \(m\.c\.a\)	P_M_ENGG
 Master Of Computer Applications \(m\.c\.a\)	P_M_ENGG
 m\. Tech\.	P_M_ENGG
@@ -4816,9 +4792,7 @@ m\. S\.	P_M_ENGG
 Master In Computer Applications	P_M_ENGG
 Master Of engineering management	P_M_ENGG
 Master Of engg management	P_M_ENGG
-Master Of computer application	P_M_ENGG
 masters In computer science	P_M_ENGG
-MASTER of COMPUTER APPLICATION	P_M_ENGG
 M\.e	P_M_ENGG
 M tech	P_M_ENGG
 M\.E	P_M_ENGG
@@ -5493,7 +5467,6 @@ B\.Ed ai	G_B_NONENGG
 B\.h\.m\.c\.t	G_B_NONENGG
 Bachelor Of Labour Management	G_B_NONENGG
 Behavioral healthcare education	G_B_NONENGG
-Bachelor Of Computer Application	G_B_NONENGG
 Bachelor of Labour Management	G_B_NONENGG
 Bachelor of Ayurvedic Medicine and Surgery	G_B_NONENGG
 BLSc	G_B_NONENGG
@@ -5504,7 +5477,6 @@ B\.I\.S\.M	G_B_NONENGG
 BFTech	G_B_NONENGG
 Bachelor of Science in Education	G_B_NONENGG
 B\.f\.tech	G_B_NONENGG
-Bachelor of computer application	G_B_NONENGG
 B\.EI\.ED	G_B_NONENGG
 B\.L\.I\.S	G_B_NONENGG
 B\.L\.M	G_B_NONENGG
@@ -5551,7 +5523,6 @@ B\.G\.L	G_B_NONENGG
 Bachelor hotel management and catering technology	G_B_NONENGG
 Bachelor hotel management and catering tech	G_B_NONENGG
 BMLT	G_B_NONENGG
-Bachelor of Computer Application	G_B_NONENGG
 Bachelor of Homeopathic Medicine & Surgery	G_B_NONENGG
 B\.A\.Llb	G_B_NONENGG
 Bachelor of Optometry and Vision Science	G_B_NONENGG
@@ -5677,7 +5648,6 @@ Master of Journalism and Mass Communication	P_M_NONENGG
 Master in Audiology and Speech	P_M_NONENGG
 M\.P\.S\.M	P_M_NONENGG
 Master of Performance Management	P_M_NONENGG
-Master of veterinary science	P_M_NONENGG
 M\.Ed AI	P_M_NONENGG
 Master of Foreign Trade	P_M_NONENGG
 M\.P\.Ed	P_M_NONENGG
@@ -5700,7 +5670,6 @@ Master Of Laws	P_M_NONENGG
 Master of chirurgical	P_M_NONENGG
 PGDCA	P_M_NONENGG
 Mahir e Tibb	P_M_NONENGG
-Master of Veterinary Science	P_M_NONENGG
 Master Of Library And Information Science	P_M_NONENGG
 P\.G\.D\.R\.P	P_M_NONENGG
 Doctor of medicine unani	P_M_NONENGG
@@ -5791,7 +5760,6 @@ Master of Chirurgical	P_M_NONENGG
 Sports medicine	P_M_NONENGG
 Master of Laws	P_M_NONENGG
 MPSM	P_M_NONENGG
-Master Of Veterinary Science	P_M_NONENGG
 Master of Hospitality & Hotel Management	P_M_NONENGG
 Master of Financial Services	P_M_NONENGG
 Masters of hospitality and tourism management	P_M_NONENGG
@@ -17330,7 +17298,6 @@ B\.A\. \(Fashion Design & Technology\)	G_B_NONENGG
 Master of Technology in Post Harvest Engineering and Technology	P_M_ENGG
 MTech in Dairy Microbiology	P_M_ENGG
 M\.Phil\. \(Life Science\) Zoology/Botany	PF_NONENGG
-Master of Veterinary Science	P_M_NONENGG
 BSc Agricultural Meteorology	G_B_NONENGG
 Doctor of Philosophy in Astronomy	PF_NONENGG
 Master of Marketing Technology \(MMT\)	P_M_NONENGG
@@ -18323,14 +18290,14 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(Ayurveda Vachaspati)(?-i)	PF_Ayurveda
 (?i)(B\.?A\.? (in )?AIH)(?-i)	G_Arts
 (?i)(B\.?A\.? (in )?Anthropology)(?-i)	G_Arts
-(?i)(B\.?A\.? (in )?Arts)(?-i)	G_Arts
-(?i)(B\.?A\.? (in )?Economics)(?-i)	G_Arts
+(?i)(B\.?A\.? (in )?Arts?)(?-i)	G_Arts
+(?i)(B\.?A\.? (in )?Economics?)(?-i)	G_Arts
 (?i)(B\.?A\.? (in )?English )(?-i)	G_Arts
 (?i)(B\.?A\.? (in )?English Literature)(?-i)	G_Arts
 (?i)(B\.?A\.? (in )?Hindi)(?-i)	G_Arts
 (?i)(B\.?A\.? (in )?History)(?-i)	G_Arts
 (?i)(B\.?A\.? (in )?Language)(?-i)	G_Arts
-(?i)(B\.?A\.? (in )?Linguistics)(?-i)	G_Arts
+(?i)(B\.?A\.? (in )?Linguistics?)(?-i)	G_Arts
 (?i)(B\.?A\.? (in )?Math)(?-i)	G_Arts
 (?i)(B\.?A\.? (in )?Music)(?-i)	G_Arts
 (?i)(B\.?A\.? (in )?Philosophy)(?-i)	G_Arts
@@ -18344,7 +18311,7 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(B\.?A\.? (in )?Urdu)(?-i)	G_Arts
 (?i)(B\.?A\.? (in )?Vedantha)(?-i)	G_Arts
 (?i)(B\.?A\.? (in )?Yoga for Human Excellence)(?-i)	G_Arts
-(?i)(B\.?A\.? B\.?Ed\.? (in )?Economics)(?-i)	IS_Education
+(?i)(B\.?A\.? B\.?Ed\.? (in )?Economics?)(?-i)	IS_Education
 (?i)(B\.?A\.? B\.?Ed\.? (in )?Geography)(?-i)	IS_Education
 (?i)(B\.?A\.? B\.?Ed\.? (in )?Hindi Lit\.?)(?-i)	IS_Education
 (?i)(B\.?A\.? B\.?Ed\.? (in )?History)(?-i)	IS_Education
@@ -18353,7 +18320,7 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(B\.?A\.? L\.?L\.?B\.? (in )?LAW)(?-i)	IS_Law
 (?i)(B\.?A\.? L\.?L\.?B\.? (in )?Law)(?-i)	IS_Law
 (?i)(B\.?A\.? L\.?L\.?B\.?)(?-i)	IS_Law
-(?i)(B\.?A\.?(Hons) (in )?Arts)(?-i)	G_OtherSocialScience
+(?i)(B\.?A\.?(Hons) (in )?Arts?)(?-i)	G_OtherSocialScience
 (?i)(B\.?A\.?(Hons) (in )?BA (Arabic))(?-i)	G_OtherForeignLanguages
 (?i)(B\.?A\.?(Hons) (in )?BA (English))(?-i)	G_OtherForeignLanguages
 (?i)(B\.?A\.?(Hons) (in )?BA (French))(?-i)	G_OtherForeignLanguages
@@ -18379,9 +18346,9 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(B\.?B\.?M\.?)(?-i)	G_BusinessManagement
 (?i)(B\.?C\.?A\.? (in )?Bachelor Computer Application)(?-i)	G_ComputerApplication
 (?i)(B\.?C\.?A\.? (in )?Computer Application)(?-i)	G_ComputerApplication
-(?i)(B\.?C\.?A\.? (in )?Computer Applications)(?-i)	G_ComputerApplication
+(?i)(B\.?C\.?A\.? (in )?Computer Applications?)(?-i)	G_ComputerApplication
 (?i)(B\.?C\.?A\.?)(?-i)	G_ComputerApplication
-(?i)(B\.?Com\.? (in )?Commerce with Computer Applications)(?-i)	G_Commerce
+(?i)(B\.?Com\.? (in )?Commerce with Computer Applications?)(?-i)	G_Commerce
 (?i)(B\.?Com\.? (in )?Commerce)(?-i)	G_Commerce
 (?i)(B\.?Com\.?)(?-i)	G_Commerce
 (?i)(B\.?Ed\.? (in )?Bachelor of Education)(?-i)	G_Education
@@ -18390,7 +18357,7 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(B\.?Ed\.? (in )?Shiksha Shastra)(?-i)	G_Education
 (?i)(B\.?Ed\.?)(?-i)	G_Education
 (?i)(B\.?F\.?A\.? (in )?Applied Art)(?-i)	G_FineArts
-(?i)(B\.?F\.?A\.? (in )?Fine Arts)(?-i)	G_FineArts
+(?i)(B\.?F\.?A\.? (in )?Fine Arts?)(?-i)	G_FineArts
 (?i)(B\.?F\.?A\.?)(?-i)	G_FineArts
 (?i)(B\.?F\.?Sc\.?)(?-i)	G_FisheriesScience
 (?i)(B\.?H\.?M\.? (in )?Food Production)(?-i)	G_HotelManagement
@@ -18425,26 +18392,26 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(B\.?Sc\.? (in )?Computer Science)(?-i)	G_ComputerScience
 (?i)(B\.?Sc\.? (in )?Costume Design and Fashion)(?-i)	G_FashionTechnology
 (?i)(B\.?Sc\.? (in )?Criminology)(?-i)	G_Science
-(?i)(B\.?Sc\.? (in )?Economics)(?-i)	G_Science
+(?i)(B\.?Sc\.? (in )?Economics?)(?-i)	G_Science
 (?i)(B\.?Sc\.? (in )?Geography)(?-i)	G_Science
 (?i)(B\.?Sc\.? (in )?Geology)(?-i)	G_Science
 (?i)(B\.?Sc\.? (in )?Hotel Management)(?-i)	G_Science
 (?i)(B\.?Sc\.? (in )?Information Technology)(?-i)	G_InformationTechnology
-(?i)(B\.?Sc\.? (in )?Mathematics)(?-i)	G_Science
-(?i)(B\.?Sc\.? (in )?Maths)(?-i)	G_Science
+(?i)(B\.?Sc\.? (in )?Mathematics?)(?-i)	G_Science
+(?i)(B\.?Sc\.? (in )?Maths?)(?-i)	G_Science
 (?i)(B\.?Sc\.? (in )?Mechanical engineering)(?-i)	PF_MechanicalEngineering
-(?i)(B\.?Sc\.? (in )?Optometrics)(?-i)	G_Science
+(?i)(B\.?Sc\.? (in )?Optometrics?)(?-i)	G_Science
 (?i)(B\.?Sc\.? (in )?Pharmaceutical Sc\.?)(?-i)	G_Science
-(?i)(B\.?Sc\.? (in )?Physics)(?-i)	G_Science
+(?i)(B\.?Sc\.? (in )?Physics?)(?-i)	G_Science
 (?i)(B\.?Sc\.? (in )?Psychology)(?-i)	G_Science
 (?i)(B\.?Sc\.? (in )?Science)(?-i)	G_Science
-(?i)(B\.?Sc\.? (in )?Statistics)(?-i)	G_Science
+(?i)(B\.?Sc\.? (in )?Statistics?)(?-i)	G_Science
 (?i)(B\.?Sc\.? (in )?Visual Communications(Electronic Media))(?-i)	G_Science
 (?i)(B\.?Sc\.? (in )?Zoology)(?-i)	G_Science
 (?i)(B\.?Sc\.? B\.?Ed\.? (in )?Botany)(?-i)	IS_Education
 (?i)(B\.?Sc\.? B\.?Ed\.? (in )?Chemistry)(?-i)	IS_Education
-(?i)(B\.?Sc\.? B\.?Ed\.? (in )?Mathematics)(?-i)	IS_Education
-(?i)(B\.?Sc\.? B\.?Ed\.? (in )?Physics)(?-i)	IS_Education
+(?i)(B\.?Sc\.? B\.?Ed\.? (in )?Mathematics?)(?-i)	IS_Education
+(?i)(B\.?Sc\.? B\.?Ed\.? (in )?Physics?)(?-i)	IS_Education
 (?i)(B\.?Sc\.? B\.?Ed\.? (in )?Zoology)(?-i)	IS_Education
 (?i)(B\.?Sc\.? B\.?Ed\.?)(?-i)	IS_Education
 (?i)(B\.?Sc\.?(Hons) (in )?Science)(?-i)	G_ComputerScience
@@ -18483,29 +18450,29 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(Bachelor of Agriculture)(?-i)	G_Agriculture
 (?i)(Bachelor of Architecture)(?-i)	G_Architecture
 (?i)(Bachelor of Arts (Honors))(?-i)	G_OtherForeignLanguages
-(?i)(Bachelor of Arts)(?-i)	G_Arts
 (?i)(Bachelor of Arts, Bachelor of Education)(?-i)	IS_Education
-(?i)(Bachelor of Arts, Bachelor of Law or Laws)(?-i)	IS_Law
+(?i)(Bachelor of Arts, Bachelor of Law or Laws?)(?-i)	IS_Law
+(?i)(Bachelor of Arts?)(?-i)	G_Arts
 (?i)(Bachelor of Ayurved Medicine & Surgery)(?-i)	G_Ayurveda
 (?i)(Bachelor of Business Administration)(?-i)	G_BusinessAdministration
-(?i)(Bachelor of Business Administration, Bachelor of Law or Laws)(?-i)	IS_Law
+(?i)(Bachelor of Business Administration, Bachelor of Law or Laws?)(?-i)	IS_Law
 (?i)(Bachelor of Business Management)(?-i)	G_BusinessManagement
 (?i)(Bachelor of Commerce)(?-i)	G_Commerce
-(?i)(Bachelor of Computer Applications)(?-i)	G_ComputerApplication
+(?i)(Bachelor of Computer Applications?)(?-i)	G_ComputerApplication
 (?i)(Bachelor of Education)(?-i)	G_Education
-(?i)(Bachelor of Fine Arts)(?-i)	G_FineArts
+(?i)(Bachelor of Fine Arts?)(?-i)	G_FineArts
 (?i)(Bachelor of Fisheries Science)(?-i)	G_FisheriesScience
 (?i)(Bachelor of Homeopathic Medicine and Surgery)(?-i)	G_Homeopathy
 (?i)(Bachelor of Hotel Management)(?-i)	G_HotelManagement
 (?i)(Bachelor of Journalism and Mass Communication)(?-i)	G_Journalism&MassCommunication
 (?i)(Bachelor of Journalism)(?-i)	G_Journalism&MassCommunication
-(?i)(Bachelor of Law or Laws)(?-i)	G_Law
+(?i)(Bachelor of Law or Laws?)(?-i)	G_Law
 (?i)(Bachelor of Library & Information Science)(?-i)	G_Library&InformationScience
 (?i)(Bachelor of Literature)(?-i)	G_Linguistics
 (?i)(Bachelor of Medicine and Bachelor of Surgery)(?-i)	G_GeneralMedicine
 (?i)(Bachelor of Music)(?-i)	G_Music
-(?i)(Bachelor of Naturopathy and Yogic Sciences)(?-i)	G_OtherMedicalScience
-(?i)(Bachelor of Performing Arts)(?-i)	G_PerformingArts
+(?i)(Bachelor of Naturopathy and Yogic Sciences?)(?-i)	G_OtherMedicalScience
+(?i)(Bachelor of Performing Arts?)(?-i)	G_PerformingArts
 (?i)(Bachelor of Pharmacy)(?-i)	G_Pharmacy
 (?i)(Bachelor of Science (Honors))(?-i)	G_OtherScience
 (?i)(Bachelor of Science in Nursing)(?-i)	G_Nursing
@@ -18626,9 +18593,9 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(Diploma (in )?Electronics and Communication Engg\.?)(?-i)	PF_ElectronicsEngineering
 (?i)(Diploma (in )?Electronics and communication Engineering)(?-i)	PF_ElectronicsEngineering
 (?i)(Diploma (in )?Engineering)(?-i)	PF_AgricultureEngineering
-(?i)(Diploma (in )?Entrepreneurship Administration and Business Laws)(?-i)	PF_Law
+(?i)(Diploma (in )?Entrepreneurship Administration and Business Laws?)(?-i)	PF_Law
 (?i)(Diploma (in )?Epigraphy)(?-i)	PF_History
-(?i)(Diploma (in )?Fish & fisheries)(?-i)	PF_FisheriesScience
+(?i)(Diploma (in )?Fish & fisheries?)(?-i)	PF_FisheriesScience
 (?i)(Diploma (in )?Food Production)(?-i)	PF_OtherManagement
 (?i)(Diploma (in )?French)(?-i)	PF_French
 (?i)(Diploma (in )?GENERAL NURSING AND MIDWIFERY)(?-i)	PF_Nursing
@@ -18641,7 +18608,7 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(Diploma (in )?Hospitality Management)(?-i)	PF_OtherManagement
 (?i)(Diploma (in )?Hotel Management)(?-i)	PF_HotelManagement
 (?i)(Diploma (in )?Information and communication Technology)(?-i)	PF_OtherSocialScience
-(?i)(Diploma (in )?Infrastructure Management Services)(?-i)	PF_InformationTechnology
+(?i)(Diploma (in )?Infrastructure Management Services?)(?-i)	PF_InformationTechnology
 (?i)(Diploma (in )?JOURNALISM & COMMUNICATION)(?-i)	PF_Journalism&MassCommunication
 (?i)(Diploma (in )?Kannada)(?-i)	PF_Linguistics
 (?i)(Diploma (in )?Kuchipudi)(?-i)	PF_PerformingArts
@@ -18655,7 +18622,7 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(Diploma (in )?Mechanical Engineering)(?-i)	PF_MechanicalEngineering
 (?i)(Diploma (in )?Mechanical engineering)(?-i)	PF_MechanicalEngineering
 (?i)(Diploma (in )?Mechanical)(?-i)	PF_MechanicalEngineering
-(?i)(Diploma (in )?Mechatronics)(?-i)	PF_OtherEngineering&Technology
+(?i)(Diploma (in )?Mechatronics?)(?-i)	PF_OtherEngineering&Technology
 (?i)(Diploma (in )?NURSING)(?-i)	PF_Nursing
 (?i)(Diploma (in )?Nursing)(?-i)	PF_LifeScience
 (?i)(Diploma (in )?Opthalmic)(?-i)	PF_Ophthalmology
@@ -18668,7 +18635,7 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(Diploma (in )?Taalvadya-Prabuddha)(?-i)	PF_PerformingArts
 (?i)(Diploma (in )?Theatre Art)(?-i)	PF_FineArts
 (?i)(Diploma (in )?Tourism Management)(?-i)	PF_BusinessManagement
-(?i)(Diploma (in )?Translation Studies)(?-i)	PF_Linguistics
+(?i)(Diploma (in )?Translation Studies?)(?-i)	PF_Linguistics
 (?i)(Diploma (in )?Visual Art)(?-i)	PF_FineArts
 (?i)(Diploma (in )?Yoga for Human Excellence (Part Time))(?-i)	PF_Yoga
 (?i)(Diploma (in )?agri)(?-i)	PF_Agriculture
@@ -18678,7 +18645,7 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(Diploma (in )?nursing)(?-i)	PF_Nursing
 (?i)(Diploma (in )?science)(?-i)	PF_ComputerScience
 (?i)(Diploma in Pharmacy)(?-i)	PF_Pharmacy
-(?i)(Doctor of Laws)(?-i)	PF_Law
+(?i)(Doctor of Laws?)(?-i)	PF_Law
 (?i)(Doctor of Medicine)(?-i)	P_Ayurveda
 (?i)(Doctor of Philosophy)(?-i)	PF_OtherEngineering&Technology
 (?i)(G\.?N\.?M\.? (in )?80)(?-i)	PF_Nursing
@@ -18703,22 +18670,22 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(Integrated Doctor of Philosophy)(?-i)	IS_OtherScience
 (?i)(Integrated M\.?C\.?A\.?)(?-i)	IS_ComputerApplication
 (?i)(Integrated M\.?Sc\.? (in )?B\.?Tech CS & MS by Research CL)(?-i)	IS_ComputerApplication
-(?i)(Integrated M\.?Sc\.? (in )?B\.?Tech CS & MS by Research in Exact Humanities)(?-i)	IS_ComputerApplication
+(?i)(Integrated M\.?Sc\.? (in )?B\.?Tech CS & MS by Research in Exact Humanities?)(?-i)	IS_ComputerApplication
 (?i)(Integrated M\.?Sc\.? (in )?B\.?Tech and MS by Research in CSE)(?-i)	IS_ComputerScience
 (?i)(Integrated M\.?Sc\.? (in )?B\.?Tech and MS by Research in ECE)(?-i)	IS_ComputerApplication
 (?i)(Integrated M\.?Sc\.? (in )?B\.?Tech in CS & MS by Research in CNS)(?-i)	IS_ComputerApplication
 (?i)(Integrated M\.?Sc\.? (in )?B\.?Tech in Civil Engg & MS by Research in Building Science & Engineering)(?-i)	IS_ComputerApplication
 (?i)(Integrated M\.?Sc\.? (in )?Chemistry)(?-i)	IS_Chemistry
-(?i)(Integrated M\.?Sc\.? (in )?Mathematics)(?-i)	IS_Mathematics
-(?i)(Integrated M\.?Sc\.? (in )?Physics)(?-i)	IS_Physics
+(?i)(Integrated M\.?Sc\.? (in )?Mathematics?)(?-i)	IS_Mathematics
+(?i)(Integrated M\.?Sc\.? (in )?Physics?)(?-i)	IS_Physics
 (?i)(Integrated M\.?Sc\.?)(?-i)	IS_LifeScience
-(?i)(Integrated Master of Computer Applications)(?-i)	IS_ComputerApplication
+(?i)(Integrated Master of Computer Applications?)(?-i)	IS_ComputerApplication
 (?i)(Integrated Master of Science)(?-i)	IS_LifeScience
 (?i)(Integrated Ph\.?D (in )?Biology)(?-i)	IS_Bio-science
 (?i)(Integrated Ph\.?D (in )?Chemistry)(?-i)	IS_Chemistry
 (?i)(Integrated Ph\.?D (in )?Language)(?-i)	IS_Linguistics
-(?i)(Integrated Ph\.?D (in )?Mathematics)(?-i)	IS_Mathematics
-(?i)(Integrated Ph\.?D (in )?Physics)(?-i)	IS_Physics
+(?i)(Integrated Ph\.?D (in )?Mathematics?)(?-i)	IS_Mathematics
+(?i)(Integrated Ph\.?D (in )?Physics?)(?-i)	IS_Physics
 (?i)(Integrated Ph\.?D)(?-i)	IS_OtherScience
 (?i)(L\.?L\.?B\.? (in )?Law)(?-i)	G_Law
 (?i)(L\.?L\.?B\.?)(?-i)	G_Law
@@ -18729,22 +18696,22 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(L\.?L\.?M\.?)(?-i)	P_Law
 (?i)(M\.?A\.? (in )?Adult and Continuing Education)(?-i)	P_OtherSocialScience
 (?i)(M\.?A\.? (in )?Ancient History and Archeology)(?-i)	P_History
-(?i)(M\.?A\.? (in )?Anna centre for public affairs)(?-i)	P_PublicAdministration
+(?i)(M\.?A\.? (in )?Anna centre for public affairs?)(?-i)	P_PublicAdministration
 (?i)(M\.?A\.? (in )?Anthropology)(?-i)	P_Anthropology
 (?i)(M\.?A\.? (in )?Arabic)(?-i)	P_OtherForeignLanguages
 (?i)(M\.?A\.? (in )?Arabic, Persian and Urdu)(?-i)	P_Sanskrit
-(?i)(M\.?A\.? (in )?Arts)(?-i)	P_OtherSocialScience
-(?i)(M\.?A\.? (in )?Christian studies)(?-i)	P_ChristianStudies
+(?i)(M\.?A\.? (in )?Arts?)(?-i)	P_OtherSocialScience
+(?i)(M\.?A\.? (in )?Christian studies?)(?-i)	P_ChristianStudies
 (?i)(M\.?A\.? (in )?Criminology)(?-i)	P_OtherSocialScience
 (?i)(M\.?A\.? (in )?DEVELOPMENT)(?-i)	P_OtherSocialScience
-(?i)(M\.?A\.? (in )?Dr\.?Ambedkar centre for economic studies)(?-i)	P_Economics
+(?i)(M\.?A\.? (in )?Dr\.?Ambedkar centre for economic studies?)(?-i)	P_Economics
 (?i)(M\.?A\.? (in )?EDUCATION)(?-i)	P_Education
-(?i)(M\.?A\.? (in )?Econometrics)(?-i)	P_Economics
-(?i)(M\.?A\.? (in )?Economics)(?-i)	P_Economics
+(?i)(M\.?A\.? (in )?Econometrics?)(?-i)	P_Economics
+(?i)(M\.?A\.? (in )?Economics?)(?-i)	P_Economics
 (?i)(M\.?A\.? (in )?Education)(?-i)	P_Education
 (?i)(M\.?A\.? (in )?English Literature)(?-i)	P_English
 (?i)(M\.?A\.? (in )?English)(?-i)	P_English
-(?i)(M\.?A\.? (in )?French & other foreign languages)(?-i)	P_French
+(?i)(M\.?A\.? (in )?French & other foreign languages?)(?-i)	P_French
 (?i)(M\.?A\.? (in )?French)(?-i)	P_French
 (?i)(M\.?A\.? (in )?German)(?-i)	P_German
 (?i)(M\.?A\.? (in )?Hindi)(?-i)	P_Hindi
@@ -18782,14 +18749,14 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(M\.?A\.? (in )?Teaching English as Second LanguageL)(?-i)	P_English
 (?i)(M\.?A\.? (in )?Telugu)(?-i)	P_Telugu
 (?i)(M\.?A\.? (in )?Vedanta)(?-i)	P_OrientalLearning
-(?i)(M\.?A\.? (in )?Womens Studies)(?-i)	P_WomenStudies
+(?i)(M\.?A\.? (in )?Womens Studies?)(?-i)	P_WomenStudies
 (?i)(M\.?A\.? (in )?Yoga for Human Excellence)(?-i)	P_OtherSocialScience
 (?i)(M\.?A\.? (in )?applied sanskrit)(?-i)	P_ReligiousStudies
 (?i)(M\.?A\.? (in )?art)(?-i)	P_Sanskrit
-(?i)(M\.?A\.? (in )?centre for south and south east asian studies)(?-i)	P_OtherSocialScience
-(?i)(M\.?A\.? (in )?defence and strategic studies)(?-i)	P_DefenceStudies
+(?i)(M\.?A\.? (in )?centre for south and south east asian studies?)(?-i)	P_OtherSocialScience
+(?i)(M\.?A\.? (in )?defence and strategic studies?)(?-i)	P_DefenceStudies
 (?i)(M\.?A\.? (in )?divyaprabandam)(?-i)	P_ReligiousStudies
-(?i)(M\.?A\.? (in )?legal studies)(?-i)	P_OtherSocialScience
+(?i)(M\.?A\.? (in )?legal studies?)(?-i)	P_OtherSocialScience
 (?i)(M\.?A\.? (in )?politics and public administration)(?-i)	P_PoliticalScience
 (?i)(M\.?A\.? (in )?vaishnavism)(?-i)	P_ReligiousStudies
 (?i)(M\.?A\.?)(?-i)	P_OtherSocialScience
@@ -18802,17 +18769,17 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(M\.?B\.?A\.? (in )?Executive MBA)(?-i)	P_BusinessAdministration
 (?i)(M\.?B\.?A\.? (in )?Export Management)(?-i)	P_BusinessAdministration
 (?i)(M\.?B\.?A\.? (in )?Financial Management)(?-i)	P_BusinessAdministration
-(?i)(M\.?B\.?A\.? (in )?Financial Services)(?-i)	P_BusinessAdministration
+(?i)(M\.?B\.?A\.? (in )?Financial Services?)(?-i)	P_BusinessAdministration
 (?i)(M\.?B\.?A\.? (in )?Five Year Integrated Programme)(?-i)	P_BusinessAdministration
 (?i)(M\.?B\.?A\.? (in )?General)(?-i)	P_BusinessAdministration
 (?i)(M\.?B\.?A\.? (in )?Hospital Management)(?-i)	P_BusinessAdministration
 (?i)(M\.?B\.?A\.? (in )?Human Resource Management)(?-i)	P_BusinessAdministration
 (?i)(M\.?B\.?A\.? (in )?Information System Management)(?-i)	P_BusinessAdministration
-(?i)(M\.?B\.?A\.? (in )?International Business)(?-i)	P_BusinessAdministration
+(?i)(M\.?B\.?A\.? (in )?International Business?)(?-i)	P_BusinessAdministration
 (?i)(M\.?B\.?A\.? (in )?Investment Management)(?-i)	P_BusinessAdministration
 (?i)(M\.?B\.?A\.? (in )?Logistics and Supply Chain Management)(?-i)	P_BusinessAdministration
-(?i)(M\.?B\.?A\.? (in )?Management Studies)(?-i)	P_BusinessAdministration
-(?i)(M\.?B\.?A\.? (in )?Management studies)(?-i)	P_BusinessAdministration
+(?i)(M\.?B\.?A\.? (in )?Management Studies?)(?-i)	P_BusinessAdministration
+(?i)(M\.?B\.?A\.? (in )?Management studies?)(?-i)	P_BusinessAdministration
 (?i)(M\.?B\.?A\.? (in )?Marketing Management)(?-i)	P_BusinessAdministration
 (?i)(M\.?B\.?A\.? (in )?Project Management)(?-i)	P_BusinessAdministration
 (?i)(M\.?B\.?A\.? (in )?Retail Management)(?-i)	P_BusinessAdministration
@@ -18823,7 +18790,7 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(M\.?B\.?A\.?)(?-i)	P_BusinessAdministration
 (?i)(M\.?B\.?B\.?S\.?)(?-i)	G_GeneralMedicine
 (?i)(M\.?C\.?A\.? (in )?COMPUTER APPLICATION)(?-i)	P_ComputerApplication
-(?i)(M\.?C\.?A\.? (in )?Computer Applications)(?-i)	P_ComputerApplication
+(?i)(M\.?C\.?A\.? (in )?Computer Applications?)(?-i)	P_ComputerApplication
 (?i)(M\.?C\.?A\.? (in )?Computer Science)(?-i)	P_ComputerApplication
 (?i)(M\.?C\.?A\.? (in )?Computer science)(?-i)	P_ComputerApplication
 (?i)(M\.?C\.?A\.? (in )?MCA)(?-i)	P_ComputerApplication
@@ -18836,7 +18803,7 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(M\.?Ch\.? (in )?UROLOGY)(?-i)	PF_Urology
 (?i)(M\.?Ch\.?)(?-i)	PF_Neurology
 (?i)(M\.?Com\.? (in )?Commerce)(?-i)	P_Commerce
-(?i)(M\.?Com\.? (in )?Computer Applications)(?-i)	P_Commerce
+(?i)(M\.?Com\.? (in )?Computer Applications?)(?-i)	P_Commerce
 (?i)(M\.?Com\.? (in )?M\.?F\.?C)(?-i)	P_Commerce
 (?i)(M\.?Com\.?)(?-i)	P_Commerce
 (?i)(M\.?D\.? (in )?ANAESTHESIA)(?-i)	P_Anesthesiology
@@ -18870,7 +18837,7 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(M\.?D\.?S\.?)(?-i)	P_Dentistry
 (?i)(M\.?Ed\.?)(?-i)	P_Education
 (?i)(M\.?F\.?A\.? (in )?Fine Art Music)(?-i)	P_PerformingArts
-(?i)(M\.?F\.?A\.? (in )?Fine Arts)(?-i)	P_FineArts
+(?i)(M\.?F\.?A\.? (in )?Fine Arts?)(?-i)	P_FineArts
 (?i)(M\.?F\.?A\.?)(?-i)	P_FineArts
 (?i)(M\.?F\.?Sc\.?)(?-i)	P_FisheriesScience
 (?i)(M\.?H\.?A\.?)(?-i)	P_HospitalAdministration
@@ -18890,25 +18857,25 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(M\.?Pharm\.?)(?-i)	P_Pharmacy
 (?i)(M\.?Phil\.? (in )?Arabic (L&L))(?-i)	P_OtherForeignLanguages
 (?i)(M\.?Phil\.? (in )?Arabic Literature)(?-i)	P_OtherForeignLanguages
-(?i)(M\.?Phil\.? (in )?Computational Linguistics)(?-i)	P_OtherEngineering&Technology
-(?i)(M\.?Phil\.? (in )?Economics)(?-i)	P_Economics
+(?i)(M\.?Phil\.? (in )?Computational Linguistics?)(?-i)	P_OtherEngineering&Technology
+(?i)(M\.?Phil\.? (in )?Economics?)(?-i)	P_Economics
 (?i)(M\.?Phil\.? (in )?English Language Education)(?-i)	P_English
 (?i)(M\.?Phil\.? (in )?English)(?-i)	P_Linguistics
-(?i)(M\.?Phil\.? (in )?Francophone Studies)(?-i)	P_French
-(?i)(M\.?Phil\.? (in )?French Studies)(?-i)	P_OtherForeignLanguages
+(?i)(M\.?Phil\.? (in )?Francophone Studies?)(?-i)	P_French
+(?i)(M\.?Phil\.? (in )?French Studies?)(?-i)	P_OtherForeignLanguages
 (?i)(M\.?Phil\.? (in )?History)(?-i)	P_OtherSocialScience
-(?i)(M\.?Phil\.? (in )?Linguistics & Phonetics)(?-i)	P_Linguistics
+(?i)(M\.?Phil\.? (in )?Linguistics & Phonetics?)(?-i)	P_Linguistics
 (?i)(M\.?Phil\.? (in )?Literature)(?-i)	P_English
-(?i)(M\.?Phil\.? (in )?Mathematics)(?-i)	P_Mathematics
+(?i)(M\.?Phil\.? (in )?Mathematics?)(?-i)	P_Mathematics
 (?i)(M\.?Phil\.? (in )?Russian Language)(?-i)	P_OtherForeignLanguages
 (?i)(M\.?Phil\.? (in )?SANSKRIT)(?-i)	P_OrientalLearning
 (?i)(M\.?Phil\.? (in )?Sanskrit)(?-i)	P_OrientalLearning
-(?i)(M\.?Phil\.? (in )?Social sciences)(?-i)	P_OtherSocialScience
+(?i)(M\.?Phil\.? (in )?Social sciences?)(?-i)	P_OtherSocialScience
 (?i)(M\.?Phil\.?)(?-i)	P_OtherForeignLanguages
-(?i)(M\.?S\.? (in )?Bioinformatics)(?-i)	P_OtherEngineering&Technology
+(?i)(M\.?S\.? (in )?Bioinformatics?)(?-i)	P_OtherEngineering&Technology
 (?i)(M\.?S\.? (in )?CSE)(?-i)	P_ComputerEngineering
 (?i)(M\.?S\.? (in )?Civil Engineering)(?-i)	P_CivilEngineering
-(?i)(M\.?S\.? (in )?Computational Linguistics)(?-i)	P_OtherEngineering&Technology
+(?i)(M\.?S\.? (in )?Computational Linguistics?)(?-i)	P_OtherEngineering&Technology
 (?i)(M\.?S\.? (in )?Science)(?-i)	P_Mathematics
 (?i)(M\.?S\.?)(?-i)	P_ElectronicsEngineering
 (?i)(M\.?S\.?W\.? (in )?Art)(?-i)	P_SocialWork
@@ -18923,12 +18890,12 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(M\.?Sc\.? (in )?Applied Geology)(?-i)	P_Geology
 (?i)(M\.?Sc\.? (in )?Applied Psychology)(?-i)	P_Psychology
 (?i)(M\.?Sc\.? (in )?BIOCHEMISTRY)(?-i)	P_Bio-chemistry
-(?i)(M\.?Sc\.? (in )?Bio-Informatics)(?-i)	P_Bio-technology
+(?i)(M\.?Sc\.? (in )?Bio-Informatics?)(?-i)	P_Bio-technology
 (?i)(M\.?Sc\.? (in )?Bio-chemistry)(?-i)	P_Chemistry
 (?i)(M\.?Sc\.? (in )?Bio-tehnology)(?-i)	P_Bio-technology
 (?i)(M\.?Sc\.? (in )?Biotechnology)(?-i)	P_Bio-technology
 (?i)(M\.?Sc\.? (in )?Botany)(?-i)	P_Botany
-(?i)(M\.?Sc\.? (in )?CAS in crystallography and Biophysics)(?-i)	P_OtherScience
+(?i)(M\.?Sc\.? (in )?CAS in crystallography and Biophysics?)(?-i)	P_OtherScience
 (?i)(M\.?Sc\.? (in )?COMPUTER SCIENCE)(?-i)	P_ComputerScience
 (?i)(M\.?Sc\.? (in )?CYTOPATHOLOGY)(?-i)	P_Pathology
 (?i)(M\.?Sc\.? (in )?Central Instrumentation)(?-i)	P_OtherScience
@@ -18936,15 +18903,15 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(M\.?Sc\.? (in )?Chemistry)(?-i)	P_Chemistry
 (?i)(M\.?Sc\.? (in )?Computer Science)(?-i)	P_ComputerScience
 (?i)(M\.?Sc\.? (in )?Costume Design and Fashion Technology)(?-i)	P_FashionTechnology
-(?i)(M\.?Sc\.? (in )?Economics)(?-i)	P_Economics
+(?i)(M\.?Sc\.? (in )?Economics?)(?-i)	P_Economics
 (?i)(M\.?Sc\.? (in )?Endocrinology)(?-i)	P_OtherScience
 (?i)(M\.?Sc\.? (in )?Energy)(?-i)	P_OtherScience
 (?i)(M\.?Sc\.? (in )?Engineering)(?-i)	P_Electronics
 (?i)(M\.?Sc\.? (in )?Environmental Science)(?-i)	P_EnvironmentalScience
-(?i)(M\.?Sc\.? (in )?Genetics)(?-i)	P_OtherScience
+(?i)(M\.?Sc\.? (in )?Genetics?)(?-i)	P_OtherScience
 (?i)(M\.?Sc\.? (in )?Geography)(?-i)	P_OtherScience
 (?i)(M\.?Sc\.? (in )?Geology)(?-i)	P_Genetics
-(?i)(M\.?Sc\.? (in )?Geophysics)(?-i)	P_Geo-physics
+(?i)(M\.?Sc\.? (in )?Geophysics?)(?-i)	P_Geo-physics
 (?i)(M\.?Sc\.? (in )?Hematology and Blood Transfusion)(?-i)	P_OtherMedicalScience
 (?i)(M\.?Sc\.? (in )?Horticulture)(?-i)	P_Horticulture
 (?i)(M\.?Sc\.? (in )?InformationTechnology)(?-i)	P_InformationTechnology
@@ -18955,26 +18922,26 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(M\.?Sc\.? (in )?MED\.? TECH\.? HAEMATOLOGY)(?-i)	P_Haematology
 (?i)(M\.?Sc\.? (in )?MED\.? TECH\.? RADIODIAGNOSIS)(?-i)	P_Radiology
 (?i)(M\.?Sc\.? (in )?MED\.? TECH\.? VIROLOGY)(?-i)	P_OtherMedicalScience
-(?i)(M\.?Sc\.? (in )?Mathematics)(?-i)	P_Mathematics
+(?i)(M\.?Sc\.? (in )?Mathematics?)(?-i)	P_Mathematics
 (?i)(M\.?Sc\.? (in )?Medical Bio-chemistry)(?-i)	P_OtherScience
 (?i)(M\.?Sc\.? (in )?Microbiology)(?-i)	P_OtherScience
 (?i)(M\.?Sc\.? (in )?National centre for Nano-science and Nano-technology)(?-i)	P_OtherScience
-(?i)(M\.?Sc\.? (in )?National centre for ultrafast processes)(?-i)	P_OtherScience
+(?i)(M\.?Sc\.? (in )?National centre for ultrafast processes?)(?-i)	P_OtherScience
 (?i)(M\.?Sc\.? (in )?Neuroscience)(?-i)	P_OtherScience
-(?i)(M\.?Sc\.? (in )?Nuclear Physics)(?-i)	P_Physics
+(?i)(M\.?Sc\.? (in )?Nuclear Physics?)(?-i)	P_Physics
 (?i)(M\.?Sc\.? (in )?Ocean & Atmospheric)(?-i)	P_OtherScience
 (?i)(M\.?Sc\.? (in )?Organic chemistry)(?-i)	P_Chemistry
 (?i)(M\.?Sc\.? (in )?Pathology)(?-i)	P_OtherScience
 (?i)(M\.?Sc\.? (in )?Pharmacology and Environmental Toxicology)(?-i)	P_OtherScience
-(?i)(M\.?Sc\.? (in )?Physical Education and sports)(?-i)	P_OtherScience
+(?i)(M\.?Sc\.? (in )?Physical Education and sports?)(?-i)	P_OtherScience
 (?i)(M\.?Sc\.? (in )?Physical chemistry)(?-i)	P_Chemistry
-(?i)(M\.?Sc\.? (in )?Physics)(?-i)	P_Physics
+(?i)(M\.?Sc\.? (in )?Physics?)(?-i)	P_Physics
 (?i)(M\.?Sc\.? (in )?Physiology)(?-i)	P_OtherScience
 (?i)(M\.?Sc\.? (in )?Polymer science)(?-i)	P_OtherScience
-(?i)(M\.?Sc\.? (in )?RIAS in mathematics)(?-i)	P_Mathematics
+(?i)(M\.?Sc\.? (in )?RIAS in mathematics?)(?-i)	P_Mathematics
 (?i)(M\.?Sc\.? (in )?Science)(?-i)	P_OtherScience
-(?i)(M\.?Sc\.? (in )?Statistics)(?-i)	P_Statistics
-(?i)(M\.?Sc\.? (in )?Theoretical Physics)(?-i)	P_Physics
+(?i)(M\.?Sc\.? (in )?Statistics?)(?-i)	P_Statistics
+(?i)(M\.?Sc\.? (in )?Theoretical Physics?)(?-i)	P_Physics
 (?i)(M\.?Sc\.? (in )?Zoology)(?-i)	P_Zoology
 (?i)(M\.?Sc\.? (in )?cyber forensics and information security)(?-i)	P_OtherScience
 (?i)(M\.?Sc\.? (in )?yoga)(?-i)	P_OtherScience
@@ -18985,17 +18952,17 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(M\.?Sc\.?)(?-i)	P_Animation
 (?i)(M\.?Tech\.? (in )?APS)(?-i)	P_ElectricalEngineering
 (?i)(M\.?Tech\.? (in )?Agril\.? Engg)(?-i)	P_AgricultureEngineering
-(?i)(M\.?Tech\.? (in )?Bioinformatics)(?-i)	P_OtherEngineering&Technology
+(?i)(M\.?Tech\.? (in )?Bioinformatics?)(?-i)	P_OtherEngineering&Technology
 (?i)(M\.?Tech\.? (in )?CAD/CAM)(?-i)	P_MechanicalEngineering
 (?i)(M\.?Tech\.? (in )?CSE)(?-i)	P_ComputerEngineering
-(?i)(M\.?Tech\.? (in )?Computational Linguistics)(?-i)	P_OtherEngineering&Technology
+(?i)(M\.?Tech\.? (in )?Computational Linguistics?)(?-i)	P_OtherEngineering&Technology
 (?i)(M\.?Tech\.? (in )?Computer Aided Structural Engineering)(?-i)	P_CivilEngineering
-(?i)(M\.?Tech\.? (in )?Computer And Communications)(?-i)	P_ElectronicsEngineering
+(?i)(M\.?Tech\.? (in )?Computer And Communications?)(?-i)	P_ElectronicsEngineering
 (?i)(M\.?Tech\.? (in )?Computer Science and Information Security)(?-i)	P_ComputerEngineering
 (?i)(M\.?Tech\.? (in )?Computer Science)(?-i)	P_ComputerEngineering
 (?i)(M\.?Tech\.? (in )?Cyber Security)(?-i)	P_ElectricalEngineering
 (?i)(M\.?Tech\.? (in )?Dual Degree Chemical Engineering)(?-i)	P_ChemicalEngineering
-(?i)(M\.?Tech\.? (in )?Dual Degree Communication and Networks)(?-i)	P_ElectronicsEngineering
+(?i)(M\.?Tech\.? (in )?Dual Degree Communication and Networks?)(?-i)	P_ElectronicsEngineering
 (?i)(M\.?Tech\.? (in )?Dual Degree Computer Science)(?-i)	P_ComputerEngineering
 (?i)(M\.?Tech\.? (in )?Dual Degree Control and Automation)(?-i)	P_ElectricalEngineering
 (?i)(M\.?Tech\.? (in )?Dual Degree Electronic Systems and Communication)(?-i)	P_ElectricalEngineering
@@ -19003,7 +18970,7 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(M\.?Tech\.? (in )?Dual Degree Mechatronics and Automation)(?-i)	P_MechanicalEngineering
 (?i)(M\.?Tech\.? (in )?Dual Degree Metallurgical and Materials Engineering)(?-i)	P_MechanicalEngineering
 (?i)(M\.?Tech\.? (in )?Dual Degree Power Electronics and Drive)(?-i)	P_ElectricalEngineering
-(?i)(M\.?Tech\.? (in )?Dual Degree VLSI Design and Embedded Systems)(?-i)	P_ElectronicsEngineering
+(?i)(M\.?Tech\.? (in )?Dual Degree VLSI Design and Embedded Systems?)(?-i)	P_ElectronicsEngineering
 (?i)(M\.?Tech\.? (in )?Dual Degree Water Resources Engineering)(?-i)	P_CivilEngineering
 (?i)(M\.?Tech\.? (in )?Dual DegreeIndustrial Ceramic)(?-i)	P_OtherEngineering&Technology
 (?i)(M\.?Tech\.? (in )?Dual degreeTransportation Engineering)(?-i)	P_CivilEngineering
@@ -19012,7 +18979,7 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(M\.?Tech\.? (in )?HV)(?-i)	P_ElectricalEngineering
 (?i)(M\.?Tech\.? (in )?IT)(?-i)	P_InformationTechnology
 (?i)(M\.?Tech\.? (in )?Information Technology)(?-i)	P_ComputerEngineering
-(?i)(M\.?Tech\.? (in )?Instrumentation and Control Systems)(?-i)	P_ElectronicsEngineering
+(?i)(M\.?Tech\.? (in )?Instrumentation and Control Systems?)(?-i)	P_ElectronicsEngineering
 (?i)(M\.?Tech\.? (in )?MECH)(?-i)	P_MechanicalEngineering
 (?i)(M\.?Tech\.? (in )?M\.? Tech (Urban Planning))(?-i)	P_Architecture
 (?i)(M\.?Tech\.? (in )?M\.? Tech\.? (CAD-CAM))(?-i)	P_MechanicalEngineering
@@ -19033,28 +19000,28 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(M\.?Tech\.? (in )?M\.?Tech\.? (Construction Technology & Management))(?-i)	P_CivilEngineering
 (?i)(M\.?Tech\.? (in )?Machine Design)(?-i)	P_MechanicalEngineering
 (?i)(M\.?Tech\.? (in )?PEPS)(?-i)	P_ElectricalEngineering
-(?i)(M\.?Tech\.? (in )?Soil Mechanics)(?-i)	P_CivilEngineering
+(?i)(M\.?Tech\.? (in )?Soil Mechanics?)(?-i)	P_CivilEngineering
 (?i)(M\.?Tech\.? (in )?Structural Engineering)(?-i)	P_CivilEngineering
 (?i)(M\.?Tech\.? (in )?VLSI & Computer Engineering)(?-i)	P_OtherEngineering&Technology
 (?i)(M\.?Tech\.? (in )?VLSI)(?-i)	P_ElectronicsEngineering
 (?i)(M\.?Tech\.?)(?-i)	P_MiningEngineering
 (?i)(M\.?V\.?Sc\.?)(?-i)	P_Veterinary&AnimalSciences
-(?i)(Master of Arts)(?-i)	P_OtherSocialScience
+(?i)(Master of Arts?)(?-i)	P_OtherSocialScience
 (?i)(Master of Business Administration)(?-i)	P_BusinessAdministration
 (?i)(Master of Chirurgiae)(?-i)	PF_Neurology
 (?i)(Master of Commerce)(?-i)	P_Commerce
-(?i)(Master of Computer Applications)(?-i)	P_ComputerApplication
+(?i)(Master of Computer Applications?)(?-i)	P_ComputerApplication
 (?i)(Master of Dental Surgery)(?-i)	P_Dentistry
 (?i)(Master of Education)(?-i)	P_Education
-(?i)(Master of Fine Arts)(?-i)	P_FineArts
+(?i)(Master of Fine Arts?)(?-i)	P_FineArts
 (?i)(Master of Fishery Science)(?-i)	P_FisheriesScience
 (?i)(Master of Hospital Administration)(?-i)	P_HospitalAdministration
 (?i)(Master of Journalism)(?-i)	P_Journalism&MassCommunication
-(?i)(Master of Law or Laws)(?-i)	P_Law
+(?i)(Master of Law or Laws?)(?-i)	P_Law
 (?i)(Master of Library & Information Science)(?-i)	P_Library&InformationScience
 (?i)(Master of Library Science)(?-i)	P_Library&InformationScience
 (?i)(Master of Music)(?-i)	P_Music
-(?i)(Master of Performing Arts)(?-i)	P_PerformingArts
+(?i)(Master of Performing Arts?)(?-i)	P_PerformingArts
 (?i)(Master of Pharmacy)(?-i)	P_Pharmacy
 (?i)(Master of Philosophy)(?-i)	P_OtherForeignLanguages
 (?i)(Master of Public Health)(?-i)	P_PublicHealth
@@ -19062,18 +19029,18 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(Master of Science)(?-i)	P_Animation
 (?i)(Master of Social Work)(?-i)	P_SocialWork
 (?i)(Master of Technology)(?-i)	P_MiningEngineering
-(?i)(Master of Veterinary Sciences)(?-i)	P_Veterinary&AnimalSciences
+(?i)(Master of Veterinary Sciences?)(?-i)	P_Veterinary&AnimalSciences
 (?i)(PG Diploma (in )?AVIONICS)(?-i)	C_Education
 (?i)(PG Diploma (in )?BMXRT)(?-i)	PF_Radiology
 (?i)(PG Diploma (in )?B\.? Sc\.? Nursing)(?-i)	PF_Nursing
-(?i)(PG Diploma (in )?Bio-Informatics)(?-i)	PF_Bio-technology
+(?i)(PG Diploma (in )?Bio-Informatics?)(?-i)	PF_Bio-technology
 (?i)(PG Diploma (in )?BusinessAdmini)(?-i)	PF_BusinessAdministration
 (?i)(PG Diploma (in )?COMPUTER APPLICTAION)(?-i)	PF_ComputerApplication
 (?i)(PG Diploma (in )?COMPUTER ENGINEERING)(?-i)	PF_CivilEngineering
 (?i)(PG Diploma (in )?CYBER CRIME)(?-i)	PF_CyberCrime
 (?i)(PG Diploma (in )?Communicative English)(?-i)	PF_English
 (?i)(PG Diploma (in )?Computer Application)(?-i)	PF_ComputerApplication
-(?i)(PG Diploma (in )?Computer Applications)(?-i)	PF_ComputerApplication
+(?i)(PG Diploma (in )?Computer Applications?)(?-i)	PF_ComputerApplication
 (?i)(PG Diploma (in )?Criminology & Police Administration)(?-i)	PF_Criminology&ForensicScience
 (?i)(PG Diploma (in )?DIFAT)(?-i)	PF_OtherEngineering&Technology
 (?i)(PG Diploma (in )?DOT)(?-i)	PF_Ophthalmology
@@ -19083,8 +19050,8 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(PG Diploma (in )?Fire and Safety Management)(?-i)	PF_BusinessManagement
 (?i)(PG Diploma (in )?Gnomic technology)(?-i)	PF_OtherMedicalScience
 (?i)(PG Diploma (in )?Industrial Security)(?-i)	PF_OtherSocialScience
-(?i)(PG Diploma (in )?International Business)(?-i)	PF_BusinessManagement
-(?i)(PG Diploma (in )?Liberal Studies)(?-i)	PF_OtherSocialScience
+(?i)(PG Diploma (in )?International Business?)(?-i)	PF_BusinessManagement
+(?i)(PG Diploma (in )?Liberal Studies?)(?-i)	PF_OtherSocialScience
 (?i)(PG Diploma (in )?Library & Information Science)(?-i)	PF_Library&InformationScience
 (?i)(PG Diploma (in )?Logistics and Supply Chain Management)(?-i)	PF_BusinessManagement
 (?i)(PG Diploma (in )?MASS COMMUNICATION)(?-i)	PF_Journalism&MassCommunication
@@ -19102,7 +19069,7 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(PG Diploma (in )?Personnel Management)(?-i)	PF_OtherManagement
 (?i)(PG Diploma (in )?Police Science)(?-i)	PF_Criminology&ForensicScience
 (?i)(PG Diploma (in )?Post Graduate Diploma in Air and Space Law)(?-i)	PF_Law
-(?i)(PG Diploma (in )?Post Graduate Diploma in Human Rights)(?-i)	PF_Law
+(?i)(PG Diploma (in )?Post Graduate Diploma in Human Rights?)(?-i)	PF_Law
 (?i)(PG Diploma (in )?Post Graduate Diploma in Nuclear Law)(?-i)	PF_Law
 (?i)(PG Diploma (in )?Post Graduate in Business Law)(?-i)	PF_Law
 (?i)(PG Diploma (in )?Psychological Counseling)(?-i)	PF_Psychology
@@ -19119,7 +19086,7 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(PG Diploma (in )?Yoga & Natural Pathy)(?-i)	PF_Yoga
 (?i)(PG Diploma (in )?Yoga & Psychotherapy)(?-i)	PF_Yoga
 (?i)(PG Diploma (in )?Yoga Education)(?-i)	PF_Yoga
-(?i)(PG Diploma (in )?Yoga practices)(?-i)	PF_OtherMedicalScience
+(?i)(PG Diploma (in )?Yoga practices?)(?-i)	PF_OtherMedicalScience
 (?i)(PG Diploma (in )?art)(?-i)	PF_OtherSocialScience
 (?i)(PG Diploma (in )?other)(?-i)	PF_Education
 (?i)(PG Diploma (in )?science)(?-i)	PF_OtherScience
@@ -19141,7 +19108,7 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(Ph\.?D\.? (in )?Bio Engineering Interdisciplinary)(?-i)	PF_Bio-technology
 (?i)(Ph\.?D\.? (in )?Bio Technology)(?-i)	PF_ChemicalEngineering
 (?i)(Ph\.?D\.? (in )?BioChemistry)(?-i)	PF_Bio-chemistry
-(?i)(Ph\.?D\.? (in )?Bioinformatics)(?-i)	PF_OtherEngineering&Technology
+(?i)(Ph\.?D\.? (in )?Bioinformatics?)(?-i)	PF_OtherEngineering&Technology
 (?i)(Ph\.?D\.? (in )?CHEMISTRY)(?-i)	PF_OtherEngineering&Technology
 (?i)(Ph\.?D\.? (in )?CIVIL)(?-i)	PF_CivilEngineering
 (?i)(Ph\.?D\.? (in )?COMPUTER SCIENCE)(?-i)	PF_ComputerEngineering
@@ -19153,11 +19120,11 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(Ph\.?D\.? (in )?Chemistry)(?-i)	PF_Chemistry
 (?i)(Ph\.?D\.? (in )?Civil Engineering)(?-i)	PF_CivilEngineering
 (?i)(Ph\.?D\.? (in )?Cognitive Science)(?-i)	PF_OtherEngineering&Technology
-(?i)(Ph\.?D\.? (in )?Computational Linguistics)(?-i)	PF_OtherEngineering&Technology
-(?i)(Ph\.?D\.? (in )?Computational Natural Sciences)(?-i)	PF_OtherEngineering&Technology
+(?i)(Ph\.?D\.? (in )?Computational Linguistics?)(?-i)	PF_OtherEngineering&Technology
+(?i)(Ph\.?D\.? (in )?Computational Natural Sciences?)(?-i)	PF_OtherEngineering&Technology
 (?i)(Ph\.?D\.? (in )?Computer Science and)(?-i)	PF_ComputerEngineering
-(?i)(Ph\.?D\.? (in )?Computer Studies)(?-i)	PF_InformationTechnology
-(?i)(Ph\.?D\.? (in )?Cultural Studies)(?-i)	PF_AreaStudies
+(?i)(Ph\.?D\.? (in )?Computer Studies?)(?-i)	PF_InformationTechnology
+(?i)(Ph\.?D\.? (in )?Cultural Studies?)(?-i)	PF_AreaStudies
 (?i)(Ph\.?D\.? (in )?Dance-Ph\.?D\.?)(?-i)	PF_PerformingArts
 (?i)(Ph\.?D\.? (in )?Dentistry)(?-i)	PF_Dentistry
 (?i)(Ph\.?D\.? (in )?ECE)(?-i)	PF_ElectronicsEngineering
@@ -19166,7 +19133,7 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(Ph\.?D\.? (in )?ELECTRONIC)(?-i)	PF_ElectronicsEngineering
 (?i)(Ph\.?D\.? (in )?ENGLISH)(?-i)	PF_Education
 (?i)(Ph\.?D\.? (in )?ENVIROMENT SCIENCE)(?-i)	PF_EnvironmentalScience
-(?i)(Ph\.?D\.? (in )?Economics)(?-i)	PF_Economics
+(?i)(Ph\.?D\.? (in )?Economics?)(?-i)	PF_Economics
 (?i)(Ph\.?D\.? (in )?Electrical & Electronics Engineering)(?-i)	PF_ElectricalEngineering
 (?i)(Ph\.?D\.? (in )?Electronics and communication Engineering)(?-i)	PF_ElectronicsEngineering
 (?i)(Ph\.?D\.? (in )?Energy)(?-i)	PF_OtherEngineering&Technology
@@ -19175,29 +19142,29 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(Ph\.?D\.? (in )?English Language Education)(?-i)	PF_English
 (?i)(Ph\.?D\.? (in )?English)(?-i)	PF_Linguistics
 (?i)(Ph\.?D\.? (in )?Enineering)(?-i)	PF_ComputerEngineering
-(?i)(Ph\.?D\.? (in )?Exact Humanities)(?-i)	PF_OtherEngineering&Technology
-(?i)(Ph\.?D\.? (in )?Film Studies & Visual Medias)(?-i)	PF_Journalism&MassCommunication
-(?i)(Ph\.?D\.? (in )?Fisheries)(?-i)	PF_FisheriesScience
+(?i)(Ph\.?D\.? (in )?Exact Humanities?)(?-i)	PF_OtherEngineering&Technology
+(?i)(Ph\.?D\.? (in )?Film Studies & Visual Medias?)(?-i)	PF_Journalism&MassCommunication
+(?i)(Ph\.?D\.? (in )?Fisheries?)(?-i)	PF_FisheriesScience
 (?i)(Ph\.?D\.? (in )?Food Technology)(?-i)	PF_ChemicalEngineering
-(?i)(Ph\.?D\.? (in )?Francophone Studies)(?-i)	PF_French
-(?i)(Ph\.?D\.? (in )?French Studies)(?-i)	PF_French
-(?i)(Ph\.?D\.? (in )?Gender Studies)(?-i)	PF_WomenStudies
+(?i)(Ph\.?D\.? (in )?Francophone Studies?)(?-i)	PF_French
+(?i)(Ph\.?D\.? (in )?French Studies?)(?-i)	PF_French
+(?i)(Ph\.?D\.? (in )?Gender Studies?)(?-i)	PF_WomenStudies
 (?i)(Ph\.?D\.? (in )?General)(?-i)	PF_Education
 (?i)(Ph\.?D\.? (in )?HS)(?-i)	PF_OtherEngineering&Technology
-(?i)(Ph\.?D\.? (in )?Health & Biomedical Sciences)(?-i)	PF_OtherScience
+(?i)(Ph\.?D\.? (in )?Health & Biomedical Sciences?)(?-i)	PF_OtherScience
 (?i)(Ph\.?D\.? (in )?Health promotion education)(?-i)	PF_Education
 (?i)(Ph\.?D\.? (in )?Hindi)(?-i)	PF_Hindi
 (?i)(Ph\.?D\.? (in )?History)(?-i)	PF_OtherSocialScience
-(?i)(Ph\.?D\.? (in )?Humanities & Social Sciences)(?-i)	PF_OtherSocialScience
+(?i)(Ph\.?D\.? (in )?Humanities & Social Sciences?)(?-i)	PF_OtherSocialScience
 (?i)(Ph\.?D\.? (in )?IT in Building Science)(?-i)	PF_CivilEngineering
-(?i)(Ph\.?D\.? (in )?IT in Power Systems)(?-i)	PF_OtherEngineering&Technology
+(?i)(Ph\.?D\.? (in )?IT in Power Systems?)(?-i)	PF_OtherEngineering&Technology
 (?i)(Ph\.?D\.? (in )?Inter Disciplinary Research)(?-i)	PF_OtherMedicalScience
 (?i)(Ph\.?D\.? (in )?Inter Disciplinary)(?-i)	PF_OtherMedicalScience
 (?i)(Ph\.?D\.? (in )?LAW)(?-i)	PF_Law
 (?i)(Ph\.?D\.? (in )?LIFE SCIENCE)(?-i)	PF_OtherEngineering&Technology
 (?i)(Ph\.?D\.? (in )?Law)(?-i)	PF_Law
 (?i)(Ph\.?D\.? (in )?Life Skills Education and Social Harmony)(?-i)	PF_Sociology
-(?i)(Ph\.?D\.? (in )?Linguistics & Phonetics)(?-i)	PF_Linguistics
+(?i)(Ph\.?D\.? (in )?Linguistics & Phonetics?)(?-i)	PF_Linguistics
 (?i)(Ph\.?D\.? (in )?Literature)(?-i)	PF_Linguistics
 (?i)(Ph\.?D\.? (in )?Local Governance)(?-i)	PF_PublicAdministration
 (?i)(Ph\.?D\.? (in )?MANAGEMENT)(?-i)	PF_OtherManagement
@@ -19207,10 +19174,10 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(Ph\.?D\.? (in )?Management)(?-i)	PF_OtherManagement
 (?i)(Ph\.?D\.? (in )?Mass Communication)(?-i)	PF_Education
 (?i)(Ph\.?D\.? (in )?Mathematics Interdisciplinary)(?-i)	PF_Mathematics
-(?i)(Ph\.?D\.? (in )?Mathematics)(?-i)	PF_Mathematics
+(?i)(Ph\.?D\.? (in )?Mathematics?)(?-i)	PF_Mathematics
 (?i)(Ph\.?D\.? (in )?Mechanical and Engineering)(?-i)	PF_MechanicalEngineering
 (?i)(Ph\.?D\.? (in )?Media Communication & Design)(?-i)	PF_Journalism&MassCommunication
-(?i)(Ph\.?D\.? (in )?Medical Informatics)(?-i)	PF_GeneralMedicine
+(?i)(Ph\.?D\.? (in )?Medical Informatics?)(?-i)	PF_GeneralMedicine
 (?i)(Ph\.?D\.? (in )?Medicine)(?-i)	PF_OtherMedicalScience
 (?i)(Ph\.?D\.? (in )?Microbiology)(?-i)	PF_Microbiology
 (?i)(Ph\.?D\.? (in )?Musicology)(?-i)	PF_PerformingArts
@@ -19219,7 +19186,7 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(Ph\.?D\.? (in )?PHARMACY)(?-i)	PF_Pharmacy
 (?i)(Ph\.?D\.? (in )?Pharmacology)(?-i)	PF_OtherMedicalScience
 (?i)(Ph\.?D\.? (in )?Pharmacy)(?-i)	PF_IndianMedicine
-(?i)(Ph\.?D\.? (in )?Physics)(?-i)	PF_Physics
+(?i)(Ph\.?D\.? (in )?Physics?)(?-i)	PF_Physics
 (?i)(Ph\.?D\.? (in )?Physiology)(?-i)	PF_Physiology
 (?i)(Ph\.?D\.? (in )?Physiotherapy)(?-i)	PF_Physiotherapy
 (?i)(Ph\.?D\.? (in )?Research)(?-i)	PF_Criminology&ForensicScience
@@ -19227,12 +19194,12 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(Ph\.?D\.? (in )?Russian Literature)(?-i)	PF_French
 (?i)(Ph\.?D\.? (in )?SANSKRIT)(?-i)	PF_OrientalLearning
 (?i)(Ph\.?D\.? (in )?Science)(?-i)	PF_OtherScience
-(?i)(Ph\.?D\.? (in )?Social Sceinces)(?-i)	PF_OtherSocialScience
-(?i)(Ph\.?D\.? (in )?Spatial Informatics)(?-i)	PF_ComputerEngineering
+(?i)(Ph\.?D\.? (in )?Social Sceinces?)(?-i)	PF_OtherSocialScience
+(?i)(Ph\.?D\.? (in )?Spatial Informatics?)(?-i)	PF_ComputerEngineering
 (?i)(Ph\.?D\.? (in )?Swarvadya-Ph\.?D\.?)(?-i)	PF_PerformingArts
 (?i)(Ph\.?D\.? (in )?Taalvadya-Ph\.?D\.?)(?-i)	PF_PerformingArts
 (?i)(Ph\.?D\.? (in )?Transdisciplinary)(?-i)	PF_OtherScience
-(?i)(Ph\.?D\.? (in )?Translation Studies)(?-i)	PF_Linguistics
+(?i)(Ph\.?D\.? (in )?Translation Studies?)(?-i)	PF_Linguistics
 (?i)(Ph\.?D\.? (in )?Veterinary)(?-i)	PF_Veterinary&AnimalSciences
 (?i)(Ph\.?D\.? (in )?Vocal Music-Ph\.?D\.?)(?-i)	PF_PerformingArts
 (?i)(Ph\.?D\.? (in )?Youth Empowerment)(?-i)	PF_OtherSocialScience
