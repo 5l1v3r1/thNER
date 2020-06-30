@@ -1,5 +1,5 @@
 SCHOLASTICS\/CERTIFICATIONS	ACADS
-(?i)(credentials)(?-i)    ACADS
+(?i)(credentials)(?-i)	ACADS
 Certifcations & Education	ACADS
 Certification Summary	ACADS
 Qualification	ACADS
@@ -19262,4 +19262,4 @@ Inter|INTER	PRE_GRAD_XII
 hse|HSE|Hse	PRE_GRAD_XII
 (?i)(10\+2th)(?-i)	PRE_GRAD_XII
 (?i)(CEC)(?-i)	PRE_GRAD_XII
-10 th   PRE_GRAD_X
+10 th	PRE_GRAD_X
