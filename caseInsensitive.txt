@@ -1,4 +1,5 @@
 SCHOLASTICS\/CERTIFICATIONS	ACADS
+(?i)(credentials)(?-i)    ACADS
 Certifcations & Education	ACADS
 Certification Summary	ACADS
 Qualification	ACADS
@@ -5016,59 +5017,6 @@ Bachelors Degree	G_B_UNCLASSIFIED
 Bachelor 's	G_B_UNCLASSIFIED
 master data management	TOOL
 Master Data Management	TOOL
-AICSSE	PRE_GRAD_XII
-Aicsse	PRE_GRAD_XII
-AIEEE	PRE_GRAD_O
-Aieee	PRE_GRAD_O
-aieee	PRE_GRAD_O
-JEE	PRE_GRAD_O
-jee	PRE_GRAD_O
-Jee	PRE_GRAD_O
-CBSE	PRE_GRAD_O
-ICSE	PRE_GRAD_O
-IB Sciences	PRE_GRAD_O
-Cbse	PRE_GRAD_O
-Icse	PRE_GRAD_O
-ISC	PRE_GRAD_XII
-X	PRE_GRAD_X
-1st to 12th Std	PRE_GRAD_XII
-CLASS XII	PRE_GRAD_XII
-CLASS X	PRE_GRAD_X
-Schooling	PRE_GRAD_O
-schooling	PRE_GRAD_O
-PUC|puc|Puc	PRE_GRAD_O
-ClassX	PRE_GRAD_X
-ClassXI	PRE_GRAD_O
-ClassXII	PRE_GRAD_XII
-Grade 4 to 7	PRE_GRAD_O
-Senior Secondary Certificate	PRE_GRAD_XII
-Senior Secondary	PRE_GRAD_XII
-Secondary Certificate	PRE_GRAD_X
-Secondary School	PRE_GRAD_X
-10th	PRE_GRAD_X
-10\+2 Standard	PRE_GRAD_XII
-Secondary Education	PRE_GRAD_X
-12th	PRE_GRAD_XII
-Class X	PRE_GRAD_X
-AISSE|aisse|Aisse	PRE_GRAD_X
-XII	PRE_GRAD_XII
-AISSCE|aissce|Aissce	PRE_GRAD_XII
-SSC|ssc|Ssc	PRE_GRAD_X
-S\.S\.C\.|S\.S\.C	PRE_GRAD_X
-SECONDARY SCHOOL CERTIFICATE	PRE_GRAD_X
-HSC|hsc|Hsc	PRE_GRAD_XII
-HSCC|SSLC|Hscc|Sslc|hscc|sslc	PRE_GRAD_XII
-12th Standard	PRE_GRAD_XII
-(M|m)atriculation|MATRICULATION	PRE_GRAD_X
-(M|m)atriculate|MATRICULATE	PRE_GRAD_X
-Class XII	PRE_GRAD_XII
-Inter|INTER	PRE_GRAD_XII
-(I|i)ntermediate|INTERMEDIATE	PRE_GRAD_XII
-School Certificate	PRE_GRAD_X
-10th Standard	PRE_GRAD_X
-hse|HSE|Hse	PRE_GRAD_XII
-10\+2th	PRE_GRAD_XII
-CEC	PRE_GRAD_XII
 MASTERS In COMPUTER SCIENCE	P_M_ENGG
 PGDIM	P_M_ENGG
 Master in computer applications	P_M_ENGG
@@ -19275,11 +19223,10 @@ Doctor of Philosophy in Disciplines of Forensic Sciences	PF_NONENG
 (?i)(AICSSE)(?-i)	PRE_GRAD_XII
 (?i)(AIEEE)(?-i)	PRE_GRAD_O
 (?i)(JEE)(?-i)	PRE_GRAD_O
-(?i)(CBSE)(?-i)	PRE_GRAD_O
 (?i)(ICSE)(?-i)	PRE_GRAD_O
 (?i)(IB)(?-i) (?i)(Sciences)(?-i)	PRE_GRAD_O
 (?i)(ISC)(?-i)	PRE_GRAD_XII
-X	PRE_GRAD_X
+(?i)(X)(?-i)	PRE_GRAD_X
 (?i)(1st)(?-i) (?i)(to)(?-i) (?i)(12th)(?-i) (?i)(Std)(?-i)	PRE_GRAD_XII
 (?i)(CLASS)(?-i) (?i)(XII)(?-i)	PRE_GRAD_XII
 (?i)(CLASS)(?-i) (?i)(X)(?-i)	PRE_GRAD_X
@@ -19315,3 +19262,4 @@ Inter|INTER	PRE_GRAD_XII
 hse|HSE|Hse	PRE_GRAD_XII
 (?i)(10\+2th)(?-i)	PRE_GRAD_XII
 (?i)(CEC)(?-i)	PRE_GRAD_XII
+10 th   PRE_GRAD_X
